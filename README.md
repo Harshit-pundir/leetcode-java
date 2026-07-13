@@ -1,5 +1,37 @@
-# leetcode-java
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+# 🚀 LeetCode Java Solutions
+
+A collection of my LeetCode solutions written in **Java**.
+
+This repository is automatically updated using **LeetHub 3.0** whenever I solve a new problem on LeetCode.
+
+---
+
+## 📊 Progress
+
+- 💻 Language: Java
+- 📚 Total Problems: 524+
+- 🟢 Easy: 195+
+- 🟡 Medium: 277+
+- 🔴 Hard: 52+
+
+---
+
+## 🎯 Goals
+
+- Reach 700+ solved problems
+- Improve contest rating to 1700+
+- Master Data Structures & Algorithms
+- Strengthen problem-solving skills for Software Engineering interviews
+
+---
+
+## 🔗 Profiles
+
+- 💻 LeetCode: https://leetcode.com/u/Harshitpundir/
+- 🐙 GitHub: https://github.com/Harshit-pundir
+- 💼 LinkedIn: https://www.linkedin.com/in/harshit-pundir-a5b112332/
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
