@@ -42,6 +42,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0704-binary-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -71,6 +72,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
