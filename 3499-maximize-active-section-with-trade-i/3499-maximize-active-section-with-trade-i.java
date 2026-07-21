@@ -1,43 +1,39 @@
 class Solution {
     public int maxActiveSectionsAfterTrade(String s) {
 
-        int ones = 0;
-        for (char c : s.toCharArray()) {
-            if (c == '1') ones++;
-        }
+        int totalOnes = 0;
+        int previousZeroBlock = 0;
+        int currentZeroBlock = 0;
+        int bestGain = 0;
 
-        String t = "1" + s + "1";
+        for (char ch : s.toCharArray()) {
 
-        ArrayList<Character> blocks = new ArrayList<>();
-        ArrayList<Integer> len = new ArrayList<>();
+            if (ch == '0') {
+                currentZeroBlock++;
+            } else {
 
-        int i = 0;
-        while (i < t.length()) {
-            char ch = t.charAt(i);
-            int cnt = 0;
+                totalOnes++;
 
-            while (i < t.length() && t.charAt(i) == ch) {
-                cnt++;
-                i++;
-            }
+                if (currentZeroBlock > 0) {
+                    bestGain = Math.max(bestGain,
+                                        previousZeroBlock + currentZeroBlock);
 
-            blocks.add(ch);
-            len.add(cnt);
-        }
-
-        int ans = ones;
-
-        for (int j = 1; j < blocks.size() - 1; j++) {
-
-            if (blocks.get(j) == '1'
-                    && blocks.get(j - 1) == '0'
-                    && blocks.get(j + 1) == '0') {
-
-                ans = Math.max(ans,
-                        ones + len.get(j - 1) + len.get(j + 1));
+                    previousZeroBlock = currentZeroBlock;
+                    currentZeroBlock = 0;
+                }
             }
         }
 
-        return ans;
+        // Check last zero block
+        bestGain = Math.max(bestGain,
+                            previousZeroBlock + currentZeroBlock);
+
+        // If one side doesn't exist, no valid trade
+        if (bestGain == previousZeroBlock ||
+            bestGain == currentZeroBlock) {
+            return totalOnes;
+        }
+
+        return totalOnes + bestGain;
     }
 }
