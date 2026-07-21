@@ -39,6 +39,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
