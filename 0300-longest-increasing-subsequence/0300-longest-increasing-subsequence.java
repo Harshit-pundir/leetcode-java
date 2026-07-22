@@ -1,29 +1,23 @@
 class Solution {
+    public int solve(int idx, int prevIdx , int[] nums,int[][] dp){
+        if(idx == nums.length) return 0;
+        if(dp[idx][prevIdx+1] != -1) return dp[idx][prevIdx+1];
+
+        int notTake = solve(idx+1,prevIdx,nums,dp);
+
+        int take = 0;
+        if(prevIdx == -1 || nums[idx] > nums[prevIdx]) take = 1 + solve(idx+1,idx,nums,dp);
+
+        return dp[idx][prevIdx+1] = Math.max(take,notTake);
+    }
     public int lengthOfLIS(int[] nums) {
-        ArrayList<Integer> temp = new ArrayList<>();
-        temp.add(nums[0]);
+        int n = nums.length;
 
-        for(int i =1; i<nums.length; i++){
-            if(nums[i] > temp.get(temp.size()-1)){
-                temp.add(nums[i]);
-            }else{
-                int left = 0;
-                int right = temp.size()-1;
+        int[][] dp = new int[n][n + 1];
 
-                while(left < right){
-                    int mid = left + (right - left)/2;
+        for (int[] row : dp)
+            Arrays.fill(row, -1);
 
-                    if(temp.get(mid) >= nums[i]){
-                        right = mid;
-                    }else{
-                        left = mid+1;
-                    }
-                }
-
-                temp.set(left,nums[i]);
-            }
-        }
-
-        return temp.size();
+        return solve(0,-1,nums,dp);
     }
 }
