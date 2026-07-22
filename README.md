@@ -131,6 +131,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Harshit-pundir/leetcode-java/tree/main/0072-edit-distance/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -148,6 +149,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Harshit-pundir/leetcode-java/tree/main/0072-edit-distance/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/1143-longest-common-subsequence/) | Medium |
