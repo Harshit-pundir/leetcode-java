@@ -18,7 +18,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 
 ## 🎯 Goals
 
-- Reach 800+ solved problems
+- Reach 1000+ solved problems
 - Improve contest rating to 1700+
 - Master Data Structures & Algorithms
 - Strengthen problem-solving skills for Software Engineering interviews
