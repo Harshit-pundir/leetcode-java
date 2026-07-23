@@ -13,7 +13,23 @@ class Solution {
     public int change(int amount, int[] coins) {
         int n = coins.length;
         int[][] dp = new int[n][amount+1];
-        for(int[] row : dp) Arrays.fill(row,-1);
-        return solve(n-1,amount,coins,dp);
+        
+        for(int sum =0; sum <= amount ; sum++){
+            if(sum % coins[0] == 0) dp[0][sum] = 1;
+        }
+        for(int idx = 0; idx< n; idx++) dp[idx][0] = 1;
+        
+        for(int idx = 1; idx < n; idx++){
+            for(int sum =0; sum <= amount; sum++){
+                int notPick = dp[idx-1][sum];
+                int pick = 0;
+                if (coins[idx] <= sum)
+                    pick = dp[idx][sum - coins[idx]];
+                
+                dp[idx][sum] = pick + notPick;
+            }
+        }
+        
+        return dp[n-1][amount];
     }
 }
