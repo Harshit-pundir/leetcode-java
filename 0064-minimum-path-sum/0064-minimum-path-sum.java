@@ -24,9 +24,18 @@ class Solution {
 
         int[][] dp = new int[n][m];
 
-        for (int[] row : dp)
-            Arrays.fill(row, -1);
+        for(int row = n-1; row>= 0; row--){
+            for(int col = m-1; col >= 0; col--){
+                if (row == n - 1 && col == m - 1) dp[row][col] = grid[row][col];
+                else{
+                    int right = (col + 1 >= m) ? (int)1e9 : dp[row][col+1];
+                    int down = (row + 1 >= n) ? (int)1e9 : dp[row+1][col];
 
-        return solve(0, 0, grid, dp);
+                    dp[row][col] = grid[row][col] + Math.min(right, down);
+                }
+            }
+        }
+
+        return dp[0][0];
     }
 }
