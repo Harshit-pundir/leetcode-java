@@ -142,6 +142,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0147-insertion-sort-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,4 +249,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
