@@ -105,6 +105,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/Harshit-pundir/leetcode-java/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0932-beautiful-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0932-beautiful-array/) | Medium |
@@ -225,6 +226,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/Harshit-pundir/leetcode-java/tree/main/0342-power-of-four/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Trie
@@ -253,4 +255,5 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0342-power-of-four](https://github.com/Harshit-pundir/leetcode-java/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
