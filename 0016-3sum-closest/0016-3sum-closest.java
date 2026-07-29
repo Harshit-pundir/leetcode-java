@@ -9,6 +9,7 @@ class Solution {
             for(int j = i+1; j <n-1; j++){
                 for(int k = j+1; k <n; k++){
                     int sum = nums[i] + nums[j] + nums[k];
+                    if(sum == target) return sum;
                     if(diff >  Math.abs(target - sum)){
                         closetSum = sum;
                         diff = Math.abs(target - sum);
