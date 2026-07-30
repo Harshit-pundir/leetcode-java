@@ -172,6 +172,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0481-magical-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0481-magical-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Greedy
@@ -209,6 +210,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,4 +280,5 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
