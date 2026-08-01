@@ -171,6 +171,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Harshit-pundir/leetcode-java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0072-edit-distance](https://github.com/Harshit-pundir/leetcode-java/tree/main/0072-edit-distance/) | Medium |
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
