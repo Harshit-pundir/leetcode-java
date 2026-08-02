@@ -129,6 +129,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Harshit-pundir/leetcode-java/tree/main/0016-3sum-closest/) | Medium |
+| [0086-partition-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0481-magical-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -155,6 +156,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0147-insertion-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0203-remove-linked-list-elements/) | Easy |
