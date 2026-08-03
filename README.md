@@ -56,6 +56,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
@@ -359,4 +360,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0877-stone-game/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
