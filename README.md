@@ -43,6 +43,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0001-two-sum/) | Easy |
 | [0016-3sum-closest](https://github.com/Harshit-pundir/leetcode-java/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
@@ -243,6 +244,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0001-two-sum/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
