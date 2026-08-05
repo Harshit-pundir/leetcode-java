@@ -251,6 +251,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0338-counting-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0518-coin-change-ii/) | Medium |
@@ -315,6 +316,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/0231-power-of-two/) | Easy |
+| [0338-counting-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Harshit-pundir/leetcode-java/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
