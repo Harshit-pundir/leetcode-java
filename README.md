@@ -49,6 +49,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0015-3sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Harshit-pundir/leetcode-java/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0057-insert-interval/) | Medium |
@@ -382,6 +383,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
