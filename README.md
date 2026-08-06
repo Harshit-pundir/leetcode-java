@@ -61,6 +61,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/Harshit-pundir/leetcode-java/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
+| [0213-house-robber-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -264,6 +265,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Harshit-pundir/leetcode-java/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
