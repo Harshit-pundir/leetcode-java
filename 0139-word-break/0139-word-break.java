@@ -25,12 +25,25 @@ class Solution {
 
     public boolean wordBreak(String s, List<String> wordDict) {
 
-        int n = s.length();
+         int n = s.length();
 
-        int[] dp = new int[n];
-        Arrays.fill(dp, -1);
         HashSet<String> set = new HashSet<>(wordDict);
 
-        return solve(0, s, set, dp);
+        boolean[] dp = new boolean[n + 1];
+
+        dp[0] = true;
+
+        for (int i = 1; i <= n; i++) {
+
+            for (int j = 0; j < i; j++) {
+
+                if (dp[j] && set.contains(s.substring(j, i))) {
+                    dp[i] = true;
+                    break;
+                }
+            }
+        }
+
+        return dp[n];
     }
 }
