@@ -1,49 +1,36 @@
 class Solution {
-    public boolean solve(int idx, String s, HashSet<String> set, Boolean[] dp) {
 
-        if (idx == s.length())
-            return true;
+    public boolean solve(int idx, String s, HashSet<String> set, int[] dp) {
 
-        if (dp[idx] != null)
-            return dp[idx];
+        if (idx == s.length()) return true;
+
+        if (dp[idx] != -1)
+            return dp[idx] == 1;
 
         for (int i = idx; i < s.length(); i++) {
 
-            String word = s.substring(idx, i + 1);
+            String sub = s.substring(idx, i + 1);
 
-            if (set.contains(word)) {
-
+            if (set.contains(sub)) {
                 if (solve(i + 1, s, set, dp)) {
-                    dp[idx] = true;   // Store true
+                    dp[idx] = 1;
                     return true;
                 }
             }
         }
 
-        dp[idx] = false;
+        dp[idx] = 0;
         return false;
     }
-    public boolean wordBreak(String s, List<String> wordDict) {
 
-        Set<String> set = new HashSet<>(wordDict);
+    public boolean wordBreak(String s, List<String> wordDict) {
 
         int n = s.length();
 
-        boolean[] dp = new boolean[n + 1];
+        int[] dp = new int[n];
+        Arrays.fill(dp, -1);
+        HashSet<String> set = new HashSet<>(wordDict);
 
-        dp[0] = true;
-
-        for (int i = 1; i <= n; i++) {
-
-            for (int j = 0; j < i; j++) {
-
-                if (dp[j] && set.contains(s.substring(j, i))) {
-                    dp[i] = true;
-                    break;
-                }
-            }
-        }
-
-        return dp[n];
+        return solve(0, s, set, dp);
     }
 }
