@@ -1,7 +1,6 @@
 class Solution {
     public int solve(int idx, int amount, int[] coins, int[][] dp) {
 
-        // Base case
         if (idx == 0) {
             return (amount % coins[0] == 0) ? 1 : 0;
         }
@@ -20,12 +19,14 @@ class Solution {
     }
 
     public int change(int amount, int[] coins) {
-        int n = coins.length;
-
-        int[][] dp = new int[n][amount + 1];
-        for (int[] row : dp)
-            Arrays.fill(row, -1);
-
-        return solve(n - 1, amount, coins, dp);
+        int[] dp = new int[amount + 1];
+        dp[0] = 1;
+        
+        for (int coin : coins) {
+            for (int j = coin; j <= amount; j++) {
+                dp[j] += dp[j - coin];
+            }
+        }
+        return dp[amount];
     }
 }
