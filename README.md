@@ -96,6 +96,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -104,6 +105,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Union-Find
@@ -122,6 +124,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Harshit-pundir/leetcode-java/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -472,4 +475,12 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Harshit-pundir/leetcode-java/tree/main/0062-unique-paths/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
