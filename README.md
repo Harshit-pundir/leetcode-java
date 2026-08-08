@@ -93,6 +93,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-pundir/leetcode-java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-pundir/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/3731-find-missing-elements/) | Easy |
 ## Depth-First Search
@@ -128,6 +129,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1260-shift-2d-grid/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0932-beautiful-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0932-beautiful-array/) | Medium |
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -329,6 +332,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
