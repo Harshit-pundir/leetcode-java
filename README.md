@@ -59,6 +59,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0057-insert-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-pundir/leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -102,6 +103,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [0133-clone-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
@@ -132,6 +134,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0054-spiral-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1260-shift-2d-grid/) | Easy |
@@ -264,6 +267,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Harshit-pundir/leetcode-java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0072-edit-distance](https://github.com/Harshit-pundir/leetcode-java/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/Harshit-pundir/leetcode-java/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -449,6 +453,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
+| [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
