@@ -217,6 +217,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -272,6 +273,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Harshit-pundir/leetcode-java/tree/main/0006-zigzag-conversion/) | Medium |
+| [0020-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Harshit-pundir/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Harshit-pundir/leetcode-java/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Harshit-pundir/leetcode-java/tree/main/0076-minimum-window-substring/) | Hard |
@@ -567,4 +569,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
