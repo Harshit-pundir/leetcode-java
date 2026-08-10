@@ -8,13 +8,11 @@ class Solution {
             Arrays.sort(arr);
             String newWord = new String(arr);
 
-            if(map.containsKey(newWord)){
-                map.get(newWord).add(word);
-            }else{
-                List<String> list = new ArrayList<>();
-                list.add(word);
-                map.put(newWord , list);
+            if(!map.containsKey(newWord)){
+                map.put(newWord , new ArrayList<>());
+            
             }
+            map.get(newWord).add(word);
         }
 
         for(List<String> words : map.values()) ans.add(words);
