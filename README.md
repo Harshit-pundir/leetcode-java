@@ -111,6 +111,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0133-clone-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -123,6 +124,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0133-clone-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -236,6 +238,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0100-same-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -406,6 +409,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0100-same-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
