@@ -166,6 +166,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Harshit-pundir/leetcode-java/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Harshit-pundir/leetcode-java/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0070-climbing-stairs/) | Easy |
