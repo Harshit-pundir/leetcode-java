@@ -75,6 +75,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -284,6 +285,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0217-contains-duplicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshit-pundir/leetcode-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -404,6 +406,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0219-contains-duplicate-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshit-pundir/leetcode-java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -421,6 +424,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0190-reverse-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0191-number-of-1-bits/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
 | [0932-beautiful-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0932-beautiful-array/) | Medium |
 ## Binary Tree
@@ -487,11 +491,13 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Harshit-pundir/leetcode-java/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Recursion
@@ -657,4 +663,12 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
