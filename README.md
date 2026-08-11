@@ -107,6 +107,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -241,6 +242,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -420,6 +422,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -634,4 +637,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
