@@ -14,7 +14,7 @@ class Solution {
 
         for(char ch : s.toCharArray()){
             freq[ch-'a']++;
-            if(vowels.contains(ch)) vowelFreq = Math.max(vowelFreq,freq[ch-'a']);
+            if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u') vowelFreq = Math.max(vowelFreq,freq[ch-'a']);
             else constFreq = Math.max(constFreq , freq[ch-'a']);
         }
 
