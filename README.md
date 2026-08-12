@@ -327,6 +327,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1143-longest-common-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1392-longest-happy-prefix/) | Hard |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -387,6 +388,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0054-spiral-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1260-shift-2d-grid/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-pundir/leetcode-java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-pundir/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -517,6 +519,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0390-elimination-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0390-elimination-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0509-fibonacci-number/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
