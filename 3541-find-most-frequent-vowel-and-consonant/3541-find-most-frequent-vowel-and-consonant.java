@@ -10,12 +10,12 @@ class Solution {
         int vowelFreq = 0;
         int constFreq = 0;
 
-        HashMap<Character,Integer> map = new HashMap<>();
+        int[] freq = new int[26];
 
         for(char ch : s.toCharArray()){
-            map.put(ch,map.getOrDefault(ch,0)+1);
-            if(vowels.contains(ch)) vowelFreq = Math.max(vowelFreq,map.get(ch));
-            else constFreq = Math.max(constFreq,map.get(ch));
+            freq[ch-'a']++;
+            if(vowels.contains(ch)) vowelFreq = Math.max(vowelFreq,freq[ch-'a']);
+            else constFreq = Math.max(constFreq , freq[ch-'a']);
         }
 
         return constFreq + vowelFreq;
