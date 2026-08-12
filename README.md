@@ -536,6 +536,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
+| [0077-combinations](https://github.com/Harshit-pundir/leetcode-java/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Rolling Hash
