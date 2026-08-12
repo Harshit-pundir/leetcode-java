@@ -1,35 +1,26 @@
-import java.util.*;
-
 class Solution {
     public int minimumDistance(int[] nums) {
-
-        HashMap<Integer, ArrayList<Integer>> map = new HashMap<>();
-
-        // Store positions
-        for (int i = 0; i < nums.length; i++) {
-            map.putIfAbsent(nums[i], new ArrayList<>());
-            map.get(nums[i]).add(i);
-        }
-
-        int ans = Integer.MAX_VALUE;
-
-        // Check every group
-        for (ArrayList<Integer> list : map.values()) {
-
-            for (int i = 2; i < list.size(); i++) {
-
-                int a = list.get(i - 2);
-                int b = list.get(i - 1);
-                int c = list.get(i);
-
-                int distance = Math.abs(a - b)
-                             + Math.abs(b - c)
-                             + Math.abs(c - a);
-
-                ans = Math.min(ans, distance);
+        int n=nums.length;
+        int ans=n+1;
+        for(int i=0;i<n-2;i++)
+        {
+            for(int j=i+1;j<n-1;j++)
+            {
+                if(nums[i]!=nums[j])
+                {
+                    continue;
+                }
+                for(int k=j+1;k<n;k++)
+                {
+                    if(nums[j]==nums[k])
+                    {
+                        ans=Math.min(ans,k-i);
+                        break;
+                    }
+                }
             }
         }
-
-        return ans == Integer.MAX_VALUE ? -1 : ans;
+        return ans==n+1?-1:ans*2;
     }
+
 }
