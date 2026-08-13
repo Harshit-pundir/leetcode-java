@@ -106,6 +106,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-pundir/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -436,6 +437,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -599,6 +601,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
+| [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
