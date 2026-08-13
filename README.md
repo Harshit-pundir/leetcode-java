@@ -104,6 +104,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-pundir/leetcode-java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-pundir/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -340,6 +341,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -472,6 +474,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -481,6 +484,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
