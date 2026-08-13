@@ -231,6 +231,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0015-3sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Harshit-pundir/leetcode-java/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
@@ -284,6 +285,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
