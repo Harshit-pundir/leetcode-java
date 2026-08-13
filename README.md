@@ -343,6 +343,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1143-longest-common-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1392-longest-happy-prefix/) | Hard |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshit-pundir/leetcode-java/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
@@ -568,6 +569,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0093-restore-ip-addresses/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Harshit-pundir/leetcode-java/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshit-pundir/leetcode-java/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
