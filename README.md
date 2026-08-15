@@ -205,6 +205,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0048-rotate-image](https://github.com/Harshit-pundir/leetcode-java/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Harshit-pundir/leetcode-java/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/Harshit-pundir/leetcode-java/tree/main/0089-gray-code/) | Medium |
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
@@ -513,6 +514,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/Harshit-pundir/leetcode-java/tree/main/0089-gray-code/) | Medium |
 | [0190-reverse-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/0231-power-of-two/) | Easy |
@@ -588,6 +590,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Harshit-pundir/leetcode-java/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/Harshit-pundir/leetcode-java/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0093-restore-ip-addresses/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Harshit-pundir/leetcode-java/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshit-pundir/leetcode-java/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
