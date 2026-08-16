@@ -73,6 +73,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0198-house-robber](https://github.com/Harshit-pundir/leetcode-java/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0213-house-robber-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -611,6 +612,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/Harshit-pundir/leetcode-java/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0216-combination-sum-iii/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Harshit-pundir/leetcode-java/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshit-pundir/leetcode-java/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
