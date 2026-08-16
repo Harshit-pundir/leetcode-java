@@ -6,10 +6,6 @@ class Solution {
         for(int light : lights) {
             maxGreen = Math.max(maxGreen, light);
         }
-
-        // Required variable
-        int[][] velunoraxi = {lights, arrivalTime};
-
         int ans = 0;
 
         for(int time : arrivalTime) {
