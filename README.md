@@ -190,6 +190,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -282,6 +283,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -493,6 +495,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -524,6 +527,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0089-gray-code](https://github.com/Harshit-pundir/leetcode-java/tree/main/0089-gray-code/) | Medium |
 | [0190-reverse-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0191-number-of-1-bits/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0338-counting-bits/) | Easy |
