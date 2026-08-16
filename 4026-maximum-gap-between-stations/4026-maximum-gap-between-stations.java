@@ -4,8 +4,7 @@ class Solution {
         int n = skill.length();
         int m = station.length();
 
-        // Required variable
-        String[] mirevonalu = {skill, station};
+        
 
         if(n == 1) return 0;
 
