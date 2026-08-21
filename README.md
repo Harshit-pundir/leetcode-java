@@ -48,6 +48,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0011-container-with-most-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Harshit-pundir/leetcode-java/tree/main/0016-3sum-closest/) | Medium |
+| [0031-next-permutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
@@ -263,6 +264,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0015-3sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Harshit-pundir/leetcode-java/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0086-partition-list/) | Medium |
