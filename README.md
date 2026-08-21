@@ -92,6 +92,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
+| [0506-relative-ranks](https://github.com/Harshit-pundir/leetcode-java/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -356,6 +357,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0506-relative-ranks](https://github.com/Harshit-pundir/leetcode-java/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshit-pundir/leetcode-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -614,6 +616,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0295-find-median-from-data-stream](https://github.com/Harshit-pundir/leetcode-java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0506-relative-ranks](https://github.com/Harshit-pundir/leetcode-java/tree/main/0506-relative-ranks/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Harshit-pundir/leetcode-java/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 ## Counting Sort
