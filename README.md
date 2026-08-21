@@ -65,6 +65,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-pundir/leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -438,6 +439,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0072-edit-distance](https://github.com/Harshit-pundir/leetcode-java/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Harshit-pundir/leetcode-java/tree/main/0091-decode-ways/) | Medium |
 | [0118-pascals-triangle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-pundir/leetcode-java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
