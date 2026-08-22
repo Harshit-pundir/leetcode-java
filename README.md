@@ -261,6 +261,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshit-pundir/leetcode-java/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harshit-pundir/leetcode-java/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
