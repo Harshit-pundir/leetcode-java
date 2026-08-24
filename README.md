@@ -116,6 +116,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1563-stone-game-v](https://github.com/Harshit-pundir/leetcode-java/tree/main/1563-stone-game-v/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Harshit-pundir/leetcode-java/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1872-stone-game-viii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1872-stone-game-viii/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Harshit-pundir/leetcode-java/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
@@ -271,6 +272,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Harshit-pundir/leetcode-java/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Harshit-pundir/leetcode-java/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
@@ -507,6 +509,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Harshit-pundir/leetcode-java/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Harshit-pundir/leetcode-java/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -741,6 +744,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Harshit-pundir/leetcode-java/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Harshit-pundir/leetcode-java/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
 ## Prefix Sum
@@ -749,6 +753,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1314-matrix-block-sum/) | Medium |
+| [1872-stone-game-viii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1872-stone-game-viii/) | Hard |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
 ## Minimax
@@ -758,6 +763,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Harshit-pundir/leetcode-java/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -765,6 +771,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Harshit-pundir/leetcode-java/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
 ## Suffix Array
 | Problem Name | Difficulty |
