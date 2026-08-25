@@ -98,6 +98,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0495-teemo-attacking](https://github.com/Harshit-pundir/leetcode-java/tree/main/0495-teemo-attacking/) | Easy |
 | [0506-relative-ranks](https://github.com/Harshit-pundir/leetcode-java/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0518-coin-change-ii/) | Medium |
+| [0605-can-place-flowers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0704-binary-search/) | Easy |
@@ -462,6 +463,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0605-can-place-flowers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-pundir/leetcode-java/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/1927-sum-game/) | Medium |
