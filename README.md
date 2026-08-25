@@ -307,6 +307,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -376,6 +377,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0147-insertion-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -551,6 +553,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0133-clone-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
@@ -844,6 +847,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Tournament Sort
