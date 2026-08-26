@@ -65,6 +65,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -306,6 +307,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
@@ -391,6 +393,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0049-group-anagrams](https://github.com/Harshit-pundir/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Harshit-pundir/leetcode-java/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0147-insertion-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
