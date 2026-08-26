@@ -1,48 +1,38 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
+        
+        // Size of the array
+        long n = (long) grid.length * grid.length;
 
-        int n = grid.length;
+        // Sum of first n natural numbers
+        long SN = (n * (n + 1)) / 2;
 
-        // Total numbers = n * n
-        long N = (long) n * n;
+        // Sum of squares of first n natural numbers
+        long S2N = (n * (n + 1) * (2 * n + 1)) / 6;
 
-        // Sum of 1 to N
-        long SN = (N * (N + 1)) / 2;
+        // Calculate actual sum (S) and sum of squares (S2) of array elements
+        long S = 0, S2 = 0;
 
-        // Sum of squares of 1 to N
-        long S2N = (N * (N + 1) * (2 * N + 1)) / 6;
-
-        long S = 0;
-        long S2 = 0;
-
-        // Calculate actual sum and square sum
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid.length; j++) {
                 S += grid[i][j];
-
-                S2 += (long) grid[i][j] * grid[i][j];
+                S2 += (long) grid[i][j] * (long) grid[i][j];
             }
         }
 
-        // repeating - missing
-        long val1 = S - SN;
+        // Compute the difference values
+        long val1 = S - SN; // X - Y
 
-        // repeating² - missing²
+        // S2 - S2n = X^2 - Y^2
         long val2 = S2 - S2N;
 
-        // repeating + missing
+        // Calculate X + Y
         val2 = val2 / val1;
 
-        // repeating
-        long repeating = (val1 + val2) / 2;
+        // Calculate X and Y
+        long x = (val1 + val2) / 2; // repeating
+        long y = x - val1;          // missing
 
-        // missing
-        long missing = repeating - val1;
-
-        return new int[]{
-            (int) repeating,
-            (int) missing
-        };
+        return new int[]{(int) x, (int) y};
     }
 }
