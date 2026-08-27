@@ -41,6 +41,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1291-sequential-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +465,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshit-pundir/leetcode-java/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +485,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -585,6 +588,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshit-pundir/leetcode-java/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshit-pundir/leetcode-java/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Divide and Conquer
@@ -698,6 +702,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshit-pundir/leetcode-java/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
