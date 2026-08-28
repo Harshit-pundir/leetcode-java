@@ -42,6 +42,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +326,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-pundir/leetcode-java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-pundir/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -466,6 +468,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshit-pundir/leetcode-java/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
