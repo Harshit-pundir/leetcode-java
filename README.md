@@ -465,6 +465,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -592,6 +593,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -713,6 +715,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshit-pundir/leetcode-java/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
