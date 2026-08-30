@@ -418,6 +418,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Harshit-pundir/leetcode-java/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Harshit-pundir/leetcode-java/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Harshit-pundir/leetcode-java/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
@@ -459,6 +460,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1392-longest-happy-prefix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshit-pundir/leetcode-java/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1927-sum-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/1927-sum-game/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -486,6 +488,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1053-previous-permutation-with-one-swap](https://github.com/Harshit-pundir/leetcode-java/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-pundir/leetcode-java/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1927-sum-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/1927-sum-game/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Harshit-pundir/leetcode-java/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
@@ -586,6 +589,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-pundir/leetcode-java/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
