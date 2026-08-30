@@ -131,6 +131,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-pundir/leetcode-java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -489,6 +490,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Harshit-pundir/leetcode-java/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
