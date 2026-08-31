@@ -391,6 +391,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0147-insertion-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0147-insertion-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0206-reverse-linked-list/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harshit-pundir/leetcode-java/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
