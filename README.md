@@ -237,6 +237,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0133-clone-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
 | [0743-network-delay-time](https://github.com/Harshit-pundir/leetcode-java/tree/main/0743-network-delay-time/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Harshit-pundir/leetcode-java/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2076-process-restricted-friend-requests](https://github.com/Harshit-pundir/leetcode-java/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -873,6 +874,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
