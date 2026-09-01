@@ -152,6 +152,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshit-pundir/leetcode-java/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshit-pundir/leetcode-java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/3731-find-missing-elements/) | Easy |
@@ -203,6 +204,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -620,6 +623,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshit-pundir/leetcode-java/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshit-pundir/leetcode-java/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/3731-find-missing-elements/) | Easy |
@@ -693,6 +697,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1386-cinema-seat-allocation](https://github.com/Harshit-pundir/leetcode-java/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-pundir/leetcode-java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshit-pundir/leetcode-java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
