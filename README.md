@@ -63,6 +63,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0057-insert-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Harshit-pundir/leetcode-java/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -218,6 +219,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0054-spiral-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0289-game-of-life](https://github.com/Harshit-pundir/leetcode-java/tree/main/0289-game-of-life/) | Medium |
@@ -246,6 +248,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0222-count-complete-tree-nodes/) | Medium |
