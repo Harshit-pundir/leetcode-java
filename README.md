@@ -117,6 +117,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0922-sort-array-by-parity-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0932-beautiful-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [0980-unique-paths-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0980-unique-paths-iii/) | Hard |
 | [1053-previous-permutation-with-one-swap](https://github.com/Harshit-pundir/leetcode-java/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Harshit-pundir/leetcode-java/tree/main/1219-path-with-maximum-gold/) | Medium |
@@ -235,6 +236,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0289-game-of-life](https://github.com/Harshit-pundir/leetcode-java/tree/main/0289-game-of-life/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0980-unique-paths-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0980-unique-paths-iii/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/Harshit-pundir/leetcode-java/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1314-matrix-block-sum/) | Medium |
@@ -702,6 +704,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0342-power-of-four](https://github.com/Harshit-pundir/leetcode-java/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0980-unique-paths-iii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-pundir/leetcode-java/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-pundir/leetcode-java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -787,6 +790,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0089-gray-code](https://github.com/Harshit-pundir/leetcode-java/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0216-combination-sum-iii/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0980-unique-paths-iii/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Harshit-pundir/leetcode-java/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshit-pundir/leetcode-java/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -991,4 +995,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Harshit-pundir/leetcode-java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
