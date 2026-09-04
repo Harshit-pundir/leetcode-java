@@ -159,6 +159,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -828,6 +829,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1872-stone-game-viii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1872-stone-game-viii/) | Hard |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
