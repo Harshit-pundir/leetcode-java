@@ -39,18 +39,12 @@ class Solution {
             if(ch == ' ' && firstFound){
                 if(remainSpace == 0 && extraSpace == 0) break;
                 if(remainSpace > 0){
-                    int temp = equalSpace;
-                    while(temp-- > 0){
-                        sb.append(' ');
-                    }
+                    sb.append(" ".repeat(equalSpace));
                     remainSpace -= equalSpace;
                     while(i + 1 < text.length() && text.charAt(i+1) ==' ')i++;
                 }else{
-                   
-                    while(extraSpace-- > 0){
-                        sb.append(' ');
-                    }
-                    
+                   sb.append(" ".repeat(extraSpace));
+                   extraSpace = 0;    
                 }
             }else{
                 if(!firstFound) firstFound = true;
@@ -58,9 +52,7 @@ class Solution {
             }
             i++;
         }
-        while(extraSpace-- > 0){
-            sb.append(' ');
-        }
+        sb.append(" ".repeat(extraSpace));
 
         return sb.toString();
     }
