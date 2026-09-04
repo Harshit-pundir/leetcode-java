@@ -61,6 +61,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0055-jump-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -224,6 +225,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Harshit-pundir/leetcode-java/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -537,6 +539,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0053-maximum-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Harshit-pundir/leetcode-java/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Harshit-pundir/leetcode-java/tree/main/0072-edit-distance/) | Medium |
