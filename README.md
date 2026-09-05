@@ -310,6 +310,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0877-stone-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0877-stone-game/) | Medium |
 | [0932-beautiful-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Harshit-pundir/leetcode-java/tree/main/1510-stone-game-iv/) | Hard |
@@ -490,6 +491,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0647-palindromic-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/0647-palindromic-substrings/) | Medium |
 | [0830-positions-of-large-groups](https://github.com/Harshit-pundir/leetcode-java/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -1015,4 +1017,12 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0980-unique-paths-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0980-unique-paths-iii/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
