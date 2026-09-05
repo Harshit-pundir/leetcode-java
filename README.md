@@ -357,6 +357,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0786-k-th-smallest-prime-fraction](https://github.com/Harshit-pundir/leetcode-java/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Harshit-pundir/leetcode-java/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-pundir/leetcode-java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-pundir/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -497,6 +498,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1592-rearrange-spaces-between-words](https://github.com/Harshit-pundir/leetcode-java/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Harshit-pundir/leetcode-java/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/1927-sum-game/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
