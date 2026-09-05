@@ -63,6 +63,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0057-insert-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0064-minimum-path-sum/) | Medium |
+| [0068-text-justification](https://github.com/Harshit-pundir/leetcode-java/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Harshit-pundir/leetcode-java/tree/main/0075-sort-colors/) | Medium |
@@ -467,6 +468,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0006-zigzag-conversion](https://github.com/Harshit-pundir/leetcode-java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Harshit-pundir/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
+| [0068-text-justification](https://github.com/Harshit-pundir/leetcode-java/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/Harshit-pundir/leetcode-java/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Harshit-pundir/leetcode-java/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
@@ -584,6 +586,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0054-spiral-matrix/) | Medium |
+| [0068-text-justification](https://github.com/Harshit-pundir/leetcode-java/tree/main/0068-text-justification/) | Hard |
 | [0258-add-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0258-add-digits/) | Easy |
 | [0289-game-of-life](https://github.com/Harshit-pundir/leetcode-java/tree/main/0289-game-of-life/) | Medium |
 | [0495-teemo-attacking](https://github.com/Harshit-pundir/leetcode-java/tree/main/0495-teemo-attacking/) | Easy |
