@@ -17,6 +17,11 @@ class Solution {
         while(i < j){
             char ch = arr[i];
             char ch2 = arr[j];
+            if(ch == ch2){
+                i++;
+                j--;
+                continue;
+            }
 
             if(v.contains(ch) && v.contains(ch2)){
                 char temp = arr[i];
