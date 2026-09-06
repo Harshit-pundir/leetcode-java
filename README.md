@@ -471,6 +471,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/Harshit-pundir/leetcode-java/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Harshit-pundir/leetcode-java/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -525,6 +526,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1592-rearrange-spaces-between-words](https://github.com/Harshit-pundir/leetcode-java/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/Harshit-pundir/leetcode-java/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Harshit-pundir/leetcode-java/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/1927-sum-game/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
@@ -666,6 +668,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-pundir/leetcode-java/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/Harshit-pundir/leetcode-java/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -796,6 +799,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0299-bulls-and-cows](https://github.com/Harshit-pundir/leetcode-java/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/Harshit-pundir/leetcode-java/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
