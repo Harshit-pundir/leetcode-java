@@ -157,6 +157,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -258,6 +259,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1914-cyclically-rotating-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -634,6 +636,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-pundir/leetcode-java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-pundir/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
 ## Hash Table
@@ -673,6 +676,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
