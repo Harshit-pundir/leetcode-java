@@ -513,6 +513,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshit-pundir/leetcode-java/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-pundir/leetcode-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1592-rearrange-spaces-between-words](https://github.com/Harshit-pundir/leetcode-java/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -813,6 +814,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0424-longest-repeating-character-replacement](https://github.com/Harshit-pundir/leetcode-java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-pundir/leetcode-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-pundir/leetcode-java/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
