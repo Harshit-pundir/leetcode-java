@@ -96,6 +96,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0287-find-the-duplicate-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/Harshit-pundir/leetcode-java/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0396-rotate-function](https://github.com/Harshit-pundir/leetcode-java/tree/main/0396-rotate-function/) | Medium |
@@ -530,6 +531,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0055-jump-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0605-can-place-flowers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0605-can-place-flowers/) | Easy |
 | [1053-previous-permutation-with-one-swap](https://github.com/Harshit-pundir/leetcode-java/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
@@ -903,6 +905,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
