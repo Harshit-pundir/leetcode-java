@@ -495,6 +495,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/Harshit-pundir/leetcode-java/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Harshit-pundir/leetcode-java/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -584,6 +585,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0070-climbing-stairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Harshit-pundir/leetcode-java/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Harshit-pundir/leetcode-java/tree/main/0091-decode-ways/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Harshit-pundir/leetcode-java/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0120-triangle/) | Medium |
