@@ -519,6 +519,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0481-magical-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0481-magical-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/0647-palindromic-substrings/) | Medium |
+| [0649-dota2-senate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0649-dota2-senate/) | Medium |
 | [0830-positions-of-large-groups](https://github.com/Harshit-pundir/leetcode-java/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -562,6 +563,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0334-increasing-triplet-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0605-can-place-flowers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0605-can-place-flowers/) | Easy |
+| [0649-dota2-senate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0649-dota2-senate/) | Medium |
 | [1053-previous-permutation-with-one-swap](https://github.com/Harshit-pundir/leetcode-java/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-pundir/leetcode-java/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -1086,5 +1088,6 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0649-dota2-senate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Harshit-pundir/leetcode-java/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
