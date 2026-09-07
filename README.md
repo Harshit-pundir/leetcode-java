@@ -204,6 +204,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0872-leaf-similar-trees](https://github.com/Harshit-pundir/leetcode-java/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -224,6 +225,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshit-pundir/leetcode-java/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0743-network-delay-time](https://github.com/Harshit-pundir/leetcode-java/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -434,6 +436,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Harshit-pundir/leetcode-java/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -744,6 +747,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Harshit-pundir/leetcode-java/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
