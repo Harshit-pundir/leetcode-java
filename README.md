@@ -791,6 +791,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-pundir/leetcode-java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0933-number-of-recent-calls](https://github.com/Harshit-pundir/leetcode-java/tree/main/0933-number-of-recent-calls/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -1040,6 +1041,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-pundir/leetcode-java/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0933-number-of-recent-calls](https://github.com/Harshit-pundir/leetcode-java/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Cartesian Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1081,4 +1083,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Harshit-pundir/leetcode-java/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
