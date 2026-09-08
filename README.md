@@ -205,6 +205,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0872-leaf-similar-trees](https://github.com/Harshit-pundir/leetcode-java/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -439,6 +440,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Harshit-pundir/leetcode-java/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -637,6 +639,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Harshit-pundir/leetcode-java/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/Harshit-pundir/leetcode-java/tree/main/1510-stone-game-iv/) | Hard |
@@ -751,6 +754,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Harshit-pundir/leetcode-java/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -1033,6 +1037,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
