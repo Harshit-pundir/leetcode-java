@@ -101,6 +101,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0396-rotate-function](https://github.com/Harshit-pundir/leetcode-java/tree/main/0396-rotate-function/) | Medium |
+| [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -196,6 +197,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Harshit-pundir/leetcode-java/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0437-path-sum-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0437-path-sum-iii/) | Medium |
@@ -228,6 +230,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/Harshit-pundir/leetcode-java/tree/main/0279-perfect-squares/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Harshit-pundir/leetcode-java/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
@@ -247,6 +250,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Harshit-pundir/leetcode-java/tree/main/0547-number-of-provinces/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
@@ -286,6 +290,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
+| [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Harshit-pundir/leetcode-java/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Harshit-pundir/leetcode-java/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Harshit-pundir/leetcode-java/tree/main/0841-keys-and-rooms/) | Medium |
@@ -550,6 +555,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0394-decode-string/) | Medium |
+| [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshit-pundir/leetcode-java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/Harshit-pundir/leetcode-java/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -1107,6 +1113,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0743-network-delay-time](https://github.com/Harshit-pundir/leetcode-java/tree/main/0743-network-delay-time/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
@@ -1141,4 +1148,12 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Harshit-pundir/leetcode-java/tree/main/0933-number-of-recent-calls/) | Easy |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
