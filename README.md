@@ -126,6 +126,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0932-beautiful-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0980-unique-paths-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0980-unique-paths-iii/) | Hard |
+| [0994-rotting-oranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1053-previous-permutation-with-one-swap](https://github.com/Harshit-pundir/leetcode-java/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
@@ -240,6 +241,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0743-network-delay-time](https://github.com/Harshit-pundir/leetcode-java/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Harshit-pundir/leetcode-java/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -277,6 +279,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0980-unique-paths-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0980-unique-paths-iii/) | Hard |
+| [0994-rotting-oranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/0994-rotting-oranges/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Harshit-pundir/leetcode-java/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1314-matrix-block-sum/) | Medium |
