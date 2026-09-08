@@ -188,6 +188,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0133-clone-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/0133-clone-graph/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Harshit-pundir/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
@@ -217,6 +218,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0102-binary-tree-level-order-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/0133-clone-graph/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Harshit-pundir/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Harshit-pundir/leetcode-java/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
@@ -426,6 +428,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Harshit-pundir/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -744,6 +747,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Harshit-pundir/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
