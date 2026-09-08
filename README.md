@@ -146,6 +146,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1732-find-the-highest-altitude](https://github.com/Harshit-pundir/leetcode-java/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1872-stone-game-viii/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Harshit-pundir/leetcode-java/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Harshit-pundir/leetcode-java/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -242,6 +243,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Harshit-pundir/leetcode-java/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -279,6 +281,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1260-shift-2d-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1314-matrix-block-sum/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Harshit-pundir/leetcode-java/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
