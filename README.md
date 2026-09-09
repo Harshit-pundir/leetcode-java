@@ -119,6 +119,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0704-binary-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Harshit-pundir/leetcode-java/tree/main/0735-asteroid-collision/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshit-pundir/leetcode-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Harshit-pundir/leetcode-java/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -684,6 +685,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0509-fibonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/0647-palindromic-substrings/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/1137-n-th-tribonacci-number/) | Easy |
