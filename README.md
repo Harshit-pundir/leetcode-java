@@ -163,6 +163,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/Harshit-pundir/leetcode-java/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -531,6 +532,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Harshit-pundir/leetcode-java/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Harshit-pundir/leetcode-java/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2542-maximum-subsequence-score](https://github.com/Harshit-pundir/leetcode-java/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -624,6 +626,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/Harshit-pundir/leetcode-java/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -875,6 +878,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Harshit-pundir/leetcode-java/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Harshit-pundir/leetcode-java/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/Harshit-pundir/leetcode-java/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
