@@ -366,6 +366,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0932-beautiful-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Harshit-pundir/leetcode-java/tree/main/1510-stone-game-iv/) | Hard |
@@ -685,6 +686,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0647-palindromic-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/0647-palindromic-substrings/) | Medium |
 | [0877-stone-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1137-n-th-tribonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Harshit-pundir/leetcode-java/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -867,6 +869,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0070-climbing-stairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
