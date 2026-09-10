@@ -83,6 +83,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0152-maximum-product-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0164-maximum-gap/) | Medium |
 | [0198-house-robber](https://github.com/Harshit-pundir/leetcode-java/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0212-word-search-ii/) | Hard |
@@ -529,6 +530,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0075-sort-colors](https://github.com/Harshit-pundir/leetcode-java/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0147-insertion-sort-list/) | Medium |
+| [0164-maximum-gap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
@@ -1152,6 +1154,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
@@ -1186,6 +1189,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0164-maximum-gap/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Prime Factorization
 | Problem Name | Difficulty |
@@ -1220,4 +1224,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
