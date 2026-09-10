@@ -228,6 +228,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-pundir/leetcode-java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -494,6 +495,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-pundir/leetcode-java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -834,6 +836,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-pundir/leetcode-java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
