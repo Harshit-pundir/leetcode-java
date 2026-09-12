@@ -571,6 +571,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Harshit-pundir/leetcode-java/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-pundir/leetcode-java/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Harshit-pundir/leetcode-java/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2785-sort-vowels-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -638,6 +639,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
