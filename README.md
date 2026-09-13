@@ -103,6 +103,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0289-game-of-life](https://github.com/Harshit-pundir/leetcode-java/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -299,6 +300,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0212-word-search-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0212-word-search-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/Harshit-pundir/leetcode-java/tree/main/0289-game-of-life/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0835-image-overlap/) | Medium |
@@ -935,6 +937,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0295-find-median-from-data-stream](https://github.com/Harshit-pundir/leetcode-java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0901-online-stock-span](https://github.com/Harshit-pundir/leetcode-java/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Harshit-pundir/leetcode-java/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Harshit-pundir/leetcode-java/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -1056,6 +1059,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0724-find-pivot-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
