@@ -98,6 +98,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0275-h-index-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -567,6 +568,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0217-contains-duplicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0274-h-index/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-pundir/leetcode-java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -984,6 +986,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0274-h-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0274-h-index/) | Medium |
 | [0299-bulls-and-cows](https://github.com/Harshit-pundir/leetcode-java/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
