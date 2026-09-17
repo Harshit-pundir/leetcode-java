@@ -351,6 +351,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0275-h-index-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/Harshit-pundir/leetcode-java/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -1275,6 +1276,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/Harshit-pundir/leetcode-java/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Harshit-pundir/leetcode-java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
