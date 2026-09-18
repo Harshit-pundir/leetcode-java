@@ -1,15 +1,11 @@
 class Solution {
     public int numberOfEmployeesWhoMetTarget(int[] hours, int target) {
-        Arrays.sort(hours);
-        int low = 0;
-        int high = hours.length-1;
-
-        while(low <= high){
-            int mid = low + (high - low)/2;
-            if(hours[mid] < target) low = mid+1;
-            else high = mid-1;
+        int x = 0;
+        for(int i = 0; i < hours.length; i++){
+            if(hours[i] >= target){
+                x ++;
+            }
         }
-
-        return hours.length-low;
+        return x;
     }
 }
