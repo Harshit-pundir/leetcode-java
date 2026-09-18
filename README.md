@@ -54,6 +54,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0016-3sum-closest](https://github.com/Harshit-pundir/leetcode-java/tree/main/0016-3sum-closest/) | Medium |
 | [0031-next-permutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Harshit-pundir/leetcode-java/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Harshit-pundir/leetcode-java/tree/main/0048-rotate-image/) | Medium |
@@ -343,6 +344,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Harshit-pundir/leetcode-java/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
