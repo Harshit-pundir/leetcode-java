@@ -193,6 +193,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-pundir/leetcode-java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshit-pundir/leetcode-java/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
