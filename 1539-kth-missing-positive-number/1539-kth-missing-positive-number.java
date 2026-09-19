@@ -7,7 +7,7 @@ class Solution {
             set.add(num);
         } 
         int count = 0;
-        for(int i = 1; i <= max*max+1; i++){
+        for(int i = 1; i <= 3*max+1; i++){
             if(!set.contains(i)){
                 count++;
                 if(count == k) return i;
