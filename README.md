@@ -167,6 +167,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-pundir/leetcode-java/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1563-stone-game-v](https://github.com/Harshit-pundir/leetcode-java/tree/main/1563-stone-game-v/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Harshit-pundir/leetcode-java/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -386,6 +387,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-pundir/leetcode-java/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-pundir/leetcode-java/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -485,6 +487,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0786-k-th-smallest-prime-fraction](https://github.com/Harshit-pundir/leetcode-java/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-pundir/leetcode-java/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Harshit-pundir/leetcode-java/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -614,6 +617,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1268-search-suggestions-system](https://github.com/Harshit-pundir/leetcode-java/tree/main/1268-search-suggestions-system/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-pundir/leetcode-java/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshit-pundir/leetcode-java/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
