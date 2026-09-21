@@ -1,17 +1,19 @@
-class Solution {
+ class Solution {
     public long[] resultArray(int[] nums, int k) {
-        int n = nums.length;
         long[] result = new long[k];
-        long[] dp = new long[k]; 
+        long[] dp = new long[k];
 
-        for (int i = 0; i < n; i++) {
-            long[] ndp = new long[k]; // Current-layer state (rolling array).
-            ndp[nums[i] % k]++;
+        for (int num : nums) {
+            int rem = num % k;
+            long[] next = new long[k];
+            next[rem]++;
+
             for (int r = 0; r < k; r++) {
-                ndp[(int) (((long) r * nums[i]) % k)] += dp[r];
+                next[(r * rem) % k] += dp[r];
             }
-            dp = ndp; // Update the state.
-            // Accumulate the answer.
+
+            dp = next;
+
             for (int r = 0; r < k; r++) {
                 result[r] += dp[r];
             }
