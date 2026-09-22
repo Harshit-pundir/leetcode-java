@@ -519,6 +519,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0394-decode-string/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -540,6 +541,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Harshit-pundir/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
@@ -929,6 +931,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Harshit-pundir/leetcode-java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0226-invert-binary-tree/) | Easy |
@@ -1009,6 +1012,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0284-peeking-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0284-peeking-iterator/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-pundir/leetcode-java/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -1268,6 +1272,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -1381,5 +1386,6 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0284-peeking-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0284-peeking-iterator/) | Medium |
 <!---LeetCode Topics End-->
