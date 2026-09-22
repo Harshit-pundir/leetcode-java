@@ -124,6 +124,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0495-teemo-attacking](https://github.com/Harshit-pundir/leetcode-java/tree/main/0495-teemo-attacking/) | Easy |
 | [0506-relative-ranks](https://github.com/Harshit-pundir/leetcode-java/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0518-coin-change-ii/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0605-can-place-flowers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -371,6 +372,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0436-find-right-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/Harshit-pundir/leetcode-java/tree/main/0441-arranging-coins/) | Easy |
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
+| [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -415,6 +417,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0441-arranging-coins](https://github.com/Harshit-pundir/leetcode-java/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0509-fibonacci-number/) | Easy |
+| [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0836-rectangle-overlap/) | Easy |
@@ -1136,6 +1139,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0724-find-pivot-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
@@ -1363,4 +1367,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0229-majority-element-ii/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
 <!---LeetCode Topics End-->
