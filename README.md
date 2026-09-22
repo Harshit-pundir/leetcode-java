@@ -112,6 +112,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0334-increasing-triplet-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0354-russian-doll-envelopes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0396-rotate-function](https://github.com/Harshit-pundir/leetcode-java/tree/main/0396-rotate-function/) | Medium |
 | [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -367,6 +368,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0287-find-the-duplicate-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0354-russian-doll-envelopes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0367-valid-perfect-square](https://github.com/Harshit-pundir/leetcode-java/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Harshit-pundir/leetcode-java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0436-find-right-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0436-find-right-interval/) | Medium |
@@ -604,6 +606,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0295-find-median-from-data-stream](https://github.com/Harshit-pundir/leetcode-java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0354-russian-doll-envelopes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0389-find-the-difference](https://github.com/Harshit-pundir/leetcode-java/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0436-find-right-interval/) | Medium |
@@ -783,6 +786,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0279-perfect-squares](https://github.com/Harshit-pundir/leetcode-java/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0338-counting-bits/) | Easy |
+| [0354-russian-doll-envelopes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0392-is-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/Harshit-pundir/leetcode-java/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -1196,6 +1200,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0354-russian-doll-envelopes/) | Hard |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
