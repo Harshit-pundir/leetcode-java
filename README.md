@@ -128,6 +128,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0506-relative-ranks](https://github.com/Harshit-pundir/leetcode-java/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0518-coin-change-ii/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0561-array-partition](https://github.com/Harshit-pundir/leetcode-java/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -622,6 +623,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshit-pundir/leetcode-java/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/Harshit-pundir/leetcode-java/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/Harshit-pundir/leetcode-java/tree/main/0561-array-partition/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -739,6 +741,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0334-increasing-triplet-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshit-pundir/leetcode-java/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0561-array-partition](https://github.com/Harshit-pundir/leetcode-java/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0611-valid-triangle-number/) | Medium |
 | [0649-dota2-senate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0649-dota2-senate/) | Medium |
@@ -1061,6 +1064,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0299-bulls-and-cows](https://github.com/Harshit-pundir/leetcode-java/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0561-array-partition](https://github.com/Harshit-pundir/leetcode-java/tree/main/0561-array-partition/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshit-pundir/leetcode-java/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
