@@ -168,6 +168,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-pundir/leetcode-java/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harshit-pundir/leetcode-java/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -265,6 +266,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-pundir/leetcode-java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -295,6 +297,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0994-rotting-oranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Harshit-pundir/leetcode-java/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -310,6 +313,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0547-number-of-provinces](https://github.com/Harshit-pundir/leetcode-java/tree/main/0547-number-of-provinces/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Harshit-pundir/leetcode-java/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2076-process-restricted-friend-requests](https://github.com/Harshit-pundir/leetcode-java/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -338,6 +342,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1260-shift-2d-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1314-matrix-block-sum/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Harshit-pundir/leetcode-java/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
