@@ -198,6 +198,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-pundir/leetcode-java/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-pundir/leetcode-java/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -341,6 +342,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Harshit-pundir/leetcode-java/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-pundir/leetcode-java/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
@@ -839,6 +841,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1563-stone-game-v](https://github.com/Harshit-pundir/leetcode-java/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harshit-pundir/leetcode-java/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1872-stone-game-viii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-pundir/leetcode-java/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -1292,6 +1295,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-pundir/leetcode-java/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
