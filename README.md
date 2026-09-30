@@ -153,6 +153,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0922-sort-array-by-parity-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0932-beautiful-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -513,6 +514,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0658-find-k-closest-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Harshit-pundir/leetcode-java/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-pundir/leetcode-java/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -648,6 +650,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Harshit-pundir/leetcode-java/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Harshit-pundir/leetcode-java/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Harshit-pundir/leetcode-java/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1268-search-suggestions-system](https://github.com/Harshit-pundir/leetcode-java/tree/main/1268-search-suggestions-system/) | Medium |
