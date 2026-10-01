@@ -1,15 +1,15 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> st = new Stack<>();  // Stack to store opening brackets
+        Stack<Character> st = new Stack<>();  
 
         for (char ch : s.toCharArray()) {
             if (ch == '(' || ch == '{' || ch == '[')
-                st.push(ch);  // Push opening brackets to stack
+                st.push(ch); 
             else {
-                if (st.isEmpty()) return false;  // No matching opening bracket
+                if (st.isEmpty()) return false; 
                 char top = st.pop();
 
-                // Check for matching pair
+                
                 if ((ch == ')' && top == '(') ||
                     (ch == ']' && top == '[') ||
                     (ch == '}' && top == '{'))
