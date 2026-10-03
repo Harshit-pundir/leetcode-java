@@ -541,6 +541,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -684,6 +685,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Harshit-pundir/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
 | [0068-text-justification](https://github.com/Harshit-pundir/leetcode-java/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/Harshit-pundir/leetcode-java/tree/main/0072-edit-distance/) | Medium |
@@ -804,6 +806,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshit-pundir/leetcode-java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Harshit-pundir/leetcode-java/tree/main/0062-unique-paths/) | Medium |
@@ -1308,6 +1311,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
