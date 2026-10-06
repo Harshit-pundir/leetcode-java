@@ -554,6 +554,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0739-daily-temperatures](https://github.com/Harshit-pundir/leetcode-java/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/Harshit-pundir/leetcode-java/tree/main/0901-online-stock-span/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshit-pundir/leetcode-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -722,6 +723,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0678-valid-parenthesis-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0830-positions-of-large-groups](https://github.com/Harshit-pundir/leetcode-java/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshit-pundir/leetcode-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/Harshit-pundir/leetcode-java/tree/main/0981-time-based-key-value-store/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -782,6 +784,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0649-dota2-senate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harshit-pundir/leetcode-java/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshit-pundir/leetcode-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1053-previous-permutation-with-one-swap](https://github.com/Harshit-pundir/leetcode-java/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-pundir/leetcode-java/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -1323,6 +1326,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0032-longest-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harshit-pundir/leetcode-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
