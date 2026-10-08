@@ -705,6 +705,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0212-word-search-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0212-word-search-ii/) | Hard |
 | [0214-shortest-palindrome](https://github.com/Harshit-pundir/leetcode-java/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/Harshit-pundir/leetcode-java/tree/main/0290-word-pattern/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0299-bulls-and-cows](https://github.com/Harshit-pundir/leetcode-java/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -922,6 +923,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0229-majority-element-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/Harshit-pundir/leetcode-java/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Harshit-pundir/leetcode-java/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/0349-intersection-of-two-arrays/) | Easy |
