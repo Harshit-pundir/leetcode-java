@@ -701,6 +701,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0115-distinct-subsequences](https://github.com/Harshit-pundir/leetcode-java/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0212-word-search-ii/) | Hard |
 | [0214-shortest-palindrome](https://github.com/Harshit-pundir/leetcode-java/tree/main/0214-shortest-palindrome/) | Hard |
@@ -917,6 +918,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0219-contains-duplicate-ii/) | Easy |
