@@ -520,6 +520,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-pundir/leetcode-java/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Harshit-pundir/leetcode-java/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshit-pundir/leetcode-java/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-pundir/leetcode-java/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -563,6 +564,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshit-pundir/leetcode-java/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Tree
@@ -755,6 +757,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1768-merge-strings-alternately](https://github.com/Harshit-pundir/leetcode-java/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/1927-sum-game/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshit-pundir/leetcode-java/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -800,6 +803,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshit-pundir/leetcode-java/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1927-sum-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/1927-sum-game/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshit-pundir/leetcode-java/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Harshit-pundir/leetcode-java/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
@@ -1344,6 +1348,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshit-pundir/leetcode-java/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-pundir/leetcode-java/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
