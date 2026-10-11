@@ -380,6 +380,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Harshit-pundir/leetcode-java/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Harshit-pundir/leetcode-java/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -431,6 +432,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0009-palindrome-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Harshit-pundir/leetcode-java/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Harshit-pundir/leetcode-java/tree/main/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/Harshit-pundir/leetcode-java/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/Harshit-pundir/leetcode-java/tree/main/0089-gray-code/) | Medium |
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
@@ -1501,4 +1503,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0284-peeking-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0284-peeking-iterator/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Harshit-pundir/leetcode-java/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
