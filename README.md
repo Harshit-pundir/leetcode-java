@@ -262,6 +262,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0437-path-sum-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0437-path-sum-iii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshit-pundir/leetcode-java/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/Harshit-pundir/leetcode-java/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -298,6 +299,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshit-pundir/leetcode-java/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/Harshit-pundir/leetcode-java/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Harshit-pundir/leetcode-java/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -599,6 +601,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0437-path-sum-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshit-pundir/leetcode-java/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
@@ -1029,6 +1032,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0437-path-sum-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshit-pundir/leetcode-java/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -1390,6 +1394,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
