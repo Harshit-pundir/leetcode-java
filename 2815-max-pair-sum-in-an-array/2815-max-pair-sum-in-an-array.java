@@ -1,26 +1,8 @@
-
 class Solution {
     public int maxSum(int[] nums) {
-        int max = Integer.MIN_VALUE;
-        int sMax = Integer.MIN_VALUE;
         int n = nums.length;
         Arrays.sort(nums);
         HashMap<Integer, ArrayList<Integer>> map = new HashMap<>();
-
-        for (int num : nums) {
-            int temp = num;
-            max = 0;
-
-            while (temp != 0) {
-                int digit = temp % 10;
-                if (digit > max) {
-                    max = digit;
-                }
-                temp /= 10;
-            }
-
-            sMax = Math.max(sMax, max);
-        }
 
         for (int i = n - 1; i >= 0; i--) {
             int temp = nums[i];
