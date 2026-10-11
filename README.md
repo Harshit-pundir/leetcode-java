@@ -40,6 +40,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/1291-sequential-digits/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -209,6 +210,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2462-total-cost-to-hire-k-workers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Harshit-pundir/leetcode-java/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
