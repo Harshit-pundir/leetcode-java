@@ -121,6 +121,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0396-rotate-function](https://github.com/Harshit-pundir/leetcode-java/tree/main/0396-rotate-function/) | Medium |
 | [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Harshit-pundir/leetcode-java/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0436-find-right-interval/) | Medium |
@@ -263,6 +264,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Harshit-pundir/leetcode-java/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Harshit-pundir/leetcode-java/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0437-path-sum-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0437-path-sum-iii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshit-pundir/leetcode-java/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -353,6 +355,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0289-game-of-life](https://github.com/Harshit-pundir/leetcode-java/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Harshit-pundir/leetcode-java/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0835-image-overlap/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0980-unique-paths-iii/) | Hard |
