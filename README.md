@@ -139,6 +139,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0695-max-area-of-island](https://github.com/Harshit-pundir/leetcode-java/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0704-binary-search/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harshit-pundir/leetcode-java/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -272,6 +273,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0572-subtree-of-another-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0695-max-area-of-island](https://github.com/Harshit-pundir/leetcode-java/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Harshit-pundir/leetcode-java/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -309,6 +311,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshit-pundir/leetcode-java/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/Harshit-pundir/leetcode-java/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/Harshit-pundir/leetcode-java/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Harshit-pundir/leetcode-java/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -331,6 +334,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0200-number-of-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Harshit-pundir/leetcode-java/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/Harshit-pundir/leetcode-java/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -356,6 +360,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0304-range-sum-query-2d-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Harshit-pundir/leetcode-java/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0695-max-area-of-island](https://github.com/Harshit-pundir/leetcode-java/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0835-image-overlap/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0980-unique-paths-iii/) | Hard |
