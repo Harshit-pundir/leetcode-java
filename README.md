@@ -126,6 +126,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshit-pundir/leetcode-java/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0463-island-perimeter](https://github.com/Harshit-pundir/leetcode-java/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
 | [0495-teemo-attacking](https://github.com/Harshit-pundir/leetcode-java/tree/main/0495-teemo-attacking/) | Easy |
@@ -267,6 +268,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Harshit-pundir/leetcode-java/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0437-path-sum-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0437-path-sum-iii/) | Medium |
+| [0463-island-perimeter](https://github.com/Harshit-pundir/leetcode-java/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshit-pundir/leetcode-java/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/Harshit-pundir/leetcode-java/tree/main/0547-number-of-provinces/) | Medium |
@@ -308,6 +310,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0404-sum-of-left-leaves](https://github.com/Harshit-pundir/leetcode-java/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0463-island-perimeter](https://github.com/Harshit-pundir/leetcode-java/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshit-pundir/leetcode-java/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/Harshit-pundir/leetcode-java/tree/main/0547-number-of-provinces/) | Medium |
@@ -360,6 +363,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0304-range-sum-query-2d-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Harshit-pundir/leetcode-java/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0463-island-perimeter](https://github.com/Harshit-pundir/leetcode-java/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Harshit-pundir/leetcode-java/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0835-image-overlap/) | Medium |
