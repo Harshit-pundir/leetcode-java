@@ -155,6 +155,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Harshit-pundir/leetcode-java/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0877-stone-game/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0932-beautiful-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
@@ -911,6 +912,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0746-min-cost-climbing-stairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/Harshit-pundir/leetcode-java/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0877-stone-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0877-stone-game/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
@@ -1041,6 +1043,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0932-beautiful-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0932-beautiful-array/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -1507,6 +1510,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0649-dota2-senate/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Harshit-pundir/leetcode-java/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
@@ -1548,4 +1552,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Harshit-pundir/leetcode-java/tree/main/0069-sqrtx/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
