@@ -463,6 +463,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0069-sqrtx](https://github.com/Harshit-pundir/leetcode-java/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/Harshit-pundir/leetcode-java/tree/main/0089-gray-code/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Harshit-pundir/leetcode-java/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0258-add-digits/) | Easy |
@@ -750,6 +751,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0115-distinct-subsequences](https://github.com/Harshit-pundir/leetcode-java/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Harshit-pundir/leetcode-java/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0212-word-search-ii/) | Hard |
