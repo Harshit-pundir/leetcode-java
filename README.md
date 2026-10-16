@@ -567,6 +567,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-pundir/leetcode-java/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2938-separate-black-and-white-balls](https://github.com/Harshit-pundir/leetcode-java/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Number Theory
@@ -816,6 +817,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2785-sort-vowels-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2810-faulty-keyboard](https://github.com/Harshit-pundir/leetcode-java/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/Harshit-pundir/leetcode-java/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-pundir/leetcode-java/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -860,6 +862,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/Harshit-pundir/leetcode-java/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshit-pundir/leetcode-java/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2938-separate-black-and-white-balls](https://github.com/Harshit-pundir/leetcode-java/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
