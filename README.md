@@ -467,6 +467,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Harshit-pundir/leetcode-java/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/Harshit-pundir/leetcode-java/tree/main/0326-power-of-three/) | Easy |
