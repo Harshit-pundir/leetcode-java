@@ -1582,4 +1582,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/Harshit-pundir/leetcode-java/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
 <!---LeetCode Topics End-->
