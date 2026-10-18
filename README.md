@@ -506,6 +506,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2525-categorize-box-according-to-criteria](https://github.com/Harshit-pundir/leetcode-java/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-pundir/leetcode-java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
