@@ -7,7 +7,7 @@ class Solution {
 
         for(int i = 0; i < n; i++){
             if(nums[i] == target) ans.add(i);
-            
+            if(nums[i] != target && !ans.isEmpty()) break;
         }
 
         return ans;
