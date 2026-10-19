@@ -224,6 +224,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshit-pundir/leetcode-java/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [2942-find-words-containing-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2942-find-words-containing-character/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -832,6 +833,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2810-faulty-keyboard](https://github.com/Harshit-pundir/leetcode-java/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/Harshit-pundir/leetcode-java/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [2942-find-words-containing-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-pundir/leetcode-java/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
