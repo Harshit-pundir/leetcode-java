@@ -199,6 +199,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -452,6 +453,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-pundir/leetcode-java/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-pundir/leetcode-java/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshit-pundir/leetcode-java/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -725,6 +727,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshit-pundir/leetcode-java/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Harshit-pundir/leetcode-java/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Harshit-pundir/leetcode-java/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
