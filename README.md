@@ -483,6 +483,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0279-perfect-squares](https://github.com/Harshit-pundir/leetcode-java/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/Harshit-pundir/leetcode-java/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Harshit-pundir/leetcode-java/tree/main/0342-power-of-four/) | Easy |
+| [0343-integer-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0343-integer-break/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Harshit-pundir/leetcode-java/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshit-pundir/leetcode-java/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -931,6 +932,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0279-perfect-squares](https://github.com/Harshit-pundir/leetcode-java/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0338-counting-bits/) | Easy |
+| [0343-integer-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0343-integer-break/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0392-is-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/Harshit-pundir/leetcode-java/tree/main/0396-rotate-function/) | Medium |
