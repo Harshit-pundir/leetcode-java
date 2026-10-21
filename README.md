@@ -489,6 +489,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshit-pundir/leetcode-java/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0390-elimination-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0390-elimination-game/) | Medium |
 | [0396-rotate-function](https://github.com/Harshit-pundir/leetcode-java/tree/main/0396-rotate-function/) | Medium |
+| [0398-random-pick-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0398-random-pick-index/) | Medium |
 | [0412-fizz-buzz](https://github.com/Harshit-pundir/leetcode-java/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Harshit-pundir/leetcode-java/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
@@ -1024,6 +1025,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshit-pundir/leetcode-java/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/Harshit-pundir/leetcode-java/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Harshit-pundir/leetcode-java/tree/main/0389-find-the-difference/) | Easy |
+| [0398-random-pick-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0398-random-pick-index/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshit-pundir/leetcode-java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -1594,6 +1596,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshit-pundir/leetcode-java/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0398-random-pick-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0398-random-pick-index/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
@@ -1616,4 +1619,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0398-random-pick-index/) | Medium |
 <!---LeetCode Topics End-->
