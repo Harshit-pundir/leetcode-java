@@ -860,6 +860,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshit-pundir/leetcode-java/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
