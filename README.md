@@ -487,6 +487,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0367-valid-perfect-square](https://github.com/Harshit-pundir/leetcode-java/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshit-pundir/leetcode-java/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0382-linked-list-random-node](https://github.com/Harshit-pundir/leetcode-java/tree/main/0382-linked-list-random-node/) | Medium |
 | [0390-elimination-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0390-elimination-game/) | Medium |
 | [0396-rotate-function](https://github.com/Harshit-pundir/leetcode-java/tree/main/0396-rotate-function/) | Medium |
 | [0398-random-pick-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0398-random-pick-index/) | Medium |
@@ -684,6 +685,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0203-remove-linked-list-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0382-linked-list-random-node](https://github.com/Harshit-pundir/leetcode-java/tree/main/0382-linked-list-random-node/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Harshit-pundir/leetcode-java/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -1596,6 +1598,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshit-pundir/leetcode-java/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0382-linked-list-random-node](https://github.com/Harshit-pundir/leetcode-java/tree/main/0382-linked-list-random-node/) | Medium |
 | [0398-random-pick-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0398-random-pick-index/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
 ## Iterator
@@ -1622,5 +1625,6 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/Harshit-pundir/leetcode-java/tree/main/0382-linked-list-random-node/) | Medium |
 | [0398-random-pick-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0398-random-pick-index/) | Medium |
 <!---LeetCode Topics End-->
