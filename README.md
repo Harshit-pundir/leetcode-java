@@ -256,6 +256,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3886-sum-of-sortable-integers](https://github.com/Harshit-pundir/leetcode-java/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
