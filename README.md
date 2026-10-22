@@ -802,6 +802,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0443-string-compression](https://github.com/Harshit-pundir/leetcode-java/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0481-magical-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0481-magical-string/) | Medium |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/0647-palindromic-substrings/) | Medium |
