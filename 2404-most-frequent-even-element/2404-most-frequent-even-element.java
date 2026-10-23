@@ -1,32 +1,25 @@
 class Solution {
     public int mostFrequentEven(int[] nums) {
+        HashMap<Integer,Integer> map = new HashMap<>();
+
+        for(int num : nums){
+            if(num % 2 == 0){
+                map.put(num,map.getOrDefault(num,0)+1);
+            }
+        }
+
         int maxFreq = 0;
-        int maxEven = -1;
-        int n = nums.length;
-        if(n == 1 && nums[0] % 2 == 0) return nums[0];
-        int count = 1;
+        int maxNum = Integer.MAX_VALUE;
 
-        Arrays.sort(nums);
-        for(int i = 1; i < n; i++){
-            if(nums[i] != nums[i-1]){
-                if(nums[i-1] % 2 == 0){
-                    if(count > maxFreq){
-                        maxFreq = count;
-                        maxEven = nums[i-1];
-                    }
-                }
-                count = 1;
-            }
-            else count++;
-        }
-        if (nums[n - 1] % 2 == 0) {
-
-            if (count > maxFreq) {
-                maxFreq = count;
-                maxEven = nums[n - 1];
+        for(int num : map.keySet()){
+            int fq = map.get(num);
+            if(fq == maxFreq) maxNum = Math.min(num,maxNum);
+            else if(fq > maxFreq){
+                maxFreq = fq;
+                maxNum = num;
             }
         }
 
-        return maxEven;
+        return map.isEmpty() ? -1 : maxNum;
     }
 }
