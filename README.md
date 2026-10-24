@@ -526,6 +526,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Harshit-pundir/leetcode-java/tree/main/2409-count-days-spent-together/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Harshit-pundir/leetcode-java/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -851,6 +852,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Harshit-pundir/leetcode-java/tree/main/2409-count-days-spent-together/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2785-sort-vowels-in-a-string/) | Medium |
