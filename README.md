@@ -513,6 +513,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1137-n-th-tribonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1360-number-of-days-between-two-dates](https://github.com/Harshit-pundir/leetcode-java/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Harshit-pundir/leetcode-java/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Harshit-pundir/leetcode-java/tree/main/1510-stone-game-iv/) | Hard |
@@ -832,6 +833,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Harshit-pundir/leetcode-java/tree/main/1268-search-suggestions-system/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1360-number-of-days-between-two-dates](https://github.com/Harshit-pundir/leetcode-java/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshit-pundir/leetcode-java/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-pundir/leetcode-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
