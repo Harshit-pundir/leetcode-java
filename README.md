@@ -128,6 +128,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshit-pundir/leetcode-java/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0454-4sum-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0454-4sum-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Harshit-pundir/leetcode-java/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
@@ -1054,6 +1055,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0424-longest-repeating-character-replacement](https://github.com/Harshit-pundir/leetcode-java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0454-4sum-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0454-4sum-ii/) | Medium |
 | [0710-random-pick-with-blacklist](https://github.com/Harshit-pundir/leetcode-java/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/Harshit-pundir/leetcode-java/tree/main/0981-time-based-key-value-store/) | Medium |
