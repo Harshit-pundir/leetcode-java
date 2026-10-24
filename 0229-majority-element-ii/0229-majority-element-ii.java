@@ -7,9 +7,9 @@ class Solution {
 
         
         for (int num : nums) {
-            if (num == candidate1 && count1 > 0) {
+            if (num == candidate1 ) {
                 count1++;
-            } else if (num == candidate2 && count2 > 0) {
+            } else if (num == candidate2 ) {
                 count2++;
             } else if (count1 == 0) {
                 candidate1 = num;
