@@ -59,6 +59,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Harshit-pundir/leetcode-java/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Harshit-pundir/leetcode-java/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Harshit-pundir/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
@@ -564,6 +565,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0018-4sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Harshit-pundir/leetcode-java/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -620,6 +622,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Harshit-pundir/leetcode-java/tree/main/0071-simplify-path/) | Medium |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -927,6 +930,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/Harshit-pundir/leetcode-java/tree/main/0739-daily-temperatures/) | Medium |
@@ -938,6 +942,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0005-longest-palindromic-substring](https://github.com/Harshit-pundir/leetcode-java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Harshit-pundir/leetcode-java/tree/main/0062-unique-paths/) | Medium |
