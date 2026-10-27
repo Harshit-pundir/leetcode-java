@@ -263,6 +263,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3903-smallest-stable-index-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3988-create-grid-with-exactly-k-paths-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,6 +414,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3988-create-grid-with-exactly-k-paths-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -560,6 +562,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Harshit-pundir/leetcode-java/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3988-create-grid-with-exactly-k-paths-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1464,6 +1467,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harshit-pundir/leetcode-java/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-pundir/leetcode-java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3988-create-grid-with-exactly-k-paths-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3988-create-grid-with-exactly-k-paths-i/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
