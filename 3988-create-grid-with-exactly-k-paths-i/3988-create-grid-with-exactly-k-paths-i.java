@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public String[] createGrid(int m, int n, int k) {
         if (m == 1 || n == 1) {
