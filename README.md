@@ -263,6 +263,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Harshit-pundir/leetcode-java/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -418,6 +419,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3988-create-grid-with-exactly-k-paths-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -1019,6 +1021,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1228,6 +1231,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshit-pundir/leetcode-java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
