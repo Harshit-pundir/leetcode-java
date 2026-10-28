@@ -223,6 +223,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-pundir/leetcode-java/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-pundir/leetcode-java/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshit-pundir/leetcode-java/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -547,6 +548,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harshit-pundir/leetcode-java/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Harshit-pundir/leetcode-java/tree/main/2409-count-days-spent-together/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Harshit-pundir/leetcode-java/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-pundir/leetcode-java/tree/main/2965-find-missing-and-repeated-values/) | Easy |
