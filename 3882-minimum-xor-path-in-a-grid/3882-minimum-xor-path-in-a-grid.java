@@ -1,39 +1,39 @@
 class Solution {
+    private int ans;
+    private boolean[][][] memo;
 
     public int minCost(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
 
-        boolean[][] dp = new boolean[n][1024];
-        boolean[] next = new boolean[1024];
+        ans = Integer.MAX_VALUE;
+        memo = new boolean[m][n][1024];
 
-        dp[0][grid[0][0]] = true;
+        dfs(grid, 0, 0, 0, m, n);
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (i == 0 && j == 0) {
-                    continue;
-                }
+        return ans;
+    }
 
-                int value = grid[i][j];
-                Arrays.fill(next, false);
+    private void dfs(int[][] grid, int i, int j, int xor, int m, int n) {
+        xor ^= grid[i][j];
 
-                for (int k = 0; k < 1024; k++) {
-                    if (dp[j][k] || (j > 0 && dp[j - 1][k])) {
-                        next[k ^ value] = true;
-                    }
-                }
+        if (ans == 0)
+            return;
 
-                System.arraycopy(next, 0, dp[j], 0, 1024);
-            }
+        if (memo[i][j][xor])
+            return;
+
+        memo[i][j][xor] = true;
+
+        if (i == m - 1 && j == n - 1) {
+            ans = Math.min(ans, xor);
+            return;
         }
 
-        for (int k = 0; k < 1024; k++) {
-            if (dp[n - 1][k]) {
-                return k;
-            }
-        }
+        if (i + 1 < m)
+            dfs(grid, i + 1, j, xor, m, n);
 
-        return -1;
+        if (j + 1 < n)
+            dfs(grid, i, j + 1, xor, m, n);
     }
 }
