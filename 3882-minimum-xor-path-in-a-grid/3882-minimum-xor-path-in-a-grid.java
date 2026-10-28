@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
     private int ans;
     private int[][][] memo;
