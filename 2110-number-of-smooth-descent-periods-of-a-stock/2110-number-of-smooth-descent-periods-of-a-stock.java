@@ -4,12 +4,17 @@ class Solution {
         int n = prices.length;
         int left = 0;
 
-        for (int right = 0; right < n; right++) {
-            if (right > 0 && prices[right - 1] - prices[right] != 1) {
-                left = right;
+        while (left < n) {
+            int j = left + 1;
+
+            while (j < n && prices[j - 1] - prices[j] == 1) {
+                j++;
             }
 
-            count += right - left + 1;
+            long len = j - left;
+            count += len * (len + 1) / 2;
+
+            left = j;
         }
 
         return count;
