@@ -1,37 +1,30 @@
 class Solution {
-    public boolean search(int[] arr, int target) {
+    public boolean search(int[] nums, int target) {
         int low = 0;
-        int high = arr.length - 1;
+        int high = nums.length - 1;
 
         while (low <= high) {
-
             int mid = low + (high - low) / 2;
 
-            if (arr[mid] == target)
-                return true;
-
-            // Duplicate values: cannot determine sorted half
-            if (arr[low] == arr[mid] && arr[mid] == arr[high]) {
-                low++;
+            if (nums[mid] == target) return true;
+            if(nums[low] == nums[mid] && nums[mid] == nums[high]){
                 high--;
+                low++;
             }
 
-            // Left half is sorted
-            else if (arr[low] <= arr[mid]) {
-
-                if (arr[low] <= target && target < arr[mid])
-                    high = mid - 1;
-                else
-                    low = mid + 1;
-            }
-
-            // Right half is sorted
+            else if (nums[mid] <= nums[high]) {
+                if (nums[mid] < target && target <= nums[high]) {
+                    low= mid+1;
+                } else {
+                    high = mid-1;
+                }
+            } 
             else {
-
-                if (arr[mid] < target && target <= arr[high])
-                    low = mid + 1;
-                else
-                    high = mid - 1;
+                if (nums[low] <= target && target < nums[mid]) {
+                    high = mid-1;
+                } else {
+                    low = mid+1;
+                }
             }
         }
 
