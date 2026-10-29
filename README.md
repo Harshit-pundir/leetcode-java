@@ -138,6 +138,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0518-coin-change-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0518-coin-change-ii/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Harshit-pundir/leetcode-java/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0605-can-place-flowers/) | Easy |
@@ -343,6 +344,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0463-island-perimeter](https://github.com/Harshit-pundir/leetcode-java/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshit-pundir/leetcode-java/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0542-01-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Harshit-pundir/leetcode-java/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Harshit-pundir/leetcode-java/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Harshit-pundir/leetcode-java/tree/main/0743-network-delay-time/) | Medium |
@@ -399,6 +401,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Harshit-pundir/leetcode-java/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/Harshit-pundir/leetcode-java/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Harshit-pundir/leetcode-java/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0835-image-overlap/) | Medium |
@@ -995,6 +998,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harshit-pundir/leetcode-java/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
