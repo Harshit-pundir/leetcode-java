@@ -53,7 +53,7 @@ class Solution {
             int cost = curr.dist;
             int count = curr.count;
 
-            if(cost != dist[node][count]) continue;
+            if(cost > dist[node][count]) continue;
 
             if(node == n - 1) return cost;
 
