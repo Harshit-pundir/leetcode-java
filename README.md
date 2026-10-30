@@ -447,6 +447,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2076-process-restricted-friend-requests](https://github.com/Harshit-pundir/leetcode-java/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -919,6 +920,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1306,6 +1308,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2336-smallest-number-in-infinite-set](https://github.com/Harshit-pundir/leetcode-java/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Harshit-pundir/leetcode-java/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1618,6 +1621,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
 | [0743-network-delay-time](https://github.com/Harshit-pundir/leetcode-java/tree/main/0743-network-delay-time/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
