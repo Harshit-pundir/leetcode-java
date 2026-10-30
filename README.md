@@ -204,6 +204,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1765-map-of-highest-peak](https://github.com/Harshit-pundir/leetcode-java/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1872-stone-game-viii/) | Hard |
+| [1901-find-a-peak-element-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Harshit-pundir/leetcode-java/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Harshit-pundir/leetcode-java/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
@@ -418,6 +419,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Harshit-pundir/leetcode-java/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Harshit-pundir/leetcode-java/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1975-maximum-matrix-sum/) | Medium |
@@ -494,6 +496,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Harshit-pundir/leetcode-java/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2055-plates-between-candles](https://github.com/Harshit-pundir/leetcode-java/tree/main/2055-plates-between-candles/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
