@@ -1,51 +1,72 @@
 class Solution {
+
+    class Pair {
+        int node;
+        int dist;
+
+        Pair(int node, int dist) {
+            this.node = node;
+            this.dist = dist;
+        }
+    }
+
+    class Triplet {
+        int node;
+        int dist;
+        int count;
+
+        Triplet(int node, int dist, int count) {
+            this.node = node;
+            this.dist = dist;
+            this.count = count;
+        }
+    }
+
     public int shortestPath(int n, int[][] edges, String labels, int k) {
 
-        ArrayList<int[]>[] adj = new ArrayList[n];
+        ArrayList<Pair>[] adj = new ArrayList[n];
 
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < n; i++) {
             adj[i] = new ArrayList<>();
         }
 
-        for(int[] edge : edges){
-            adj[edge[0]].add(new int[]{edge[1], edge[2]});
+        for(int[] edge : edges) {
+            adj[edge[0]].add(new Pair(edge[1], edge[2]));
         }
 
-        int[][] dist = new int[n][k+1];
+        int[][] dist = new int[n][k + 1];
 
         for(int[] row : dist) {
             Arrays.fill(row, Integer.MAX_VALUE);
         }
 
-        PriorityQueue<int[]> pq = new PriorityQueue<>(
-            (a,b) -> Integer.compare(a[0],b[0])
-        );
+        PriorityQueue<Triplet> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.dist, b.dist));
 
         dist[0][1] = 0;
-        pq.offer(new int[]{0,0,1});
+        pq.offer(new Triplet(0, 0, 1));
 
-        while(!pq.isEmpty()){
+        while(!pq.isEmpty()) {
 
-            int[] curr = pq.poll();
+            Triplet curr = pq.poll();
 
-            int cost = curr[0];
-            int node = curr[1];
-            int count = curr[2];
+            int node = curr.node;
+            int cost = curr.dist;
+            int count = curr.count;
 
             if(cost != dist[node][count]) continue;
 
-            if(node == n-1) return cost;
+            if(node == n - 1) return cost;
 
-            for(int[] edge : adj[node]){
+            for(Pair edge : adj[node]) {
 
-                int next = edge[0];
-                int wt = edge[1];
+                int next = edge.node;
+                int wt = edge.dist;
 
                 int newCount;
 
-                if(labels.charAt(node) == labels.charAt(next)){
+                if(labels.charAt(node) == labels.charAt(next)) {
                     newCount = count + 1;
-                } 
+                }
                 else {
                     newCount = 1;
                 }
@@ -54,13 +75,11 @@ class Solution {
 
                 int newCost = cost + wt;
 
-                if(newCost < dist[next][newCount]){
+                if(newCost < dist[next][newCount]) {
 
                     dist[next][newCount] = newCost;
 
-                    pq.offer(new int[]{
-                        newCost, next, newCount
-                    });
+                    pq.offer(new Triplet(next, newCost, newCount));
                 }
             }
         }
