@@ -1,14 +1,14 @@
 class Solution {
-    public int findMaxInd(int[][] mat , int n, int m , int col){
+    public int findMaxInd(int[][] mat , int n, int m , int row){
         int ind = -1;
         int maxNumber = -1;
 
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < m; i++){
             if(ind == -1){
                 ind = 0;
-                maxNumber = mat[i][col];
-            }else if(mat[i][col] > maxNumber){
-                maxNumber = mat[i][col];
+                maxNumber = mat[row][i];
+            }else if(mat[row][i] > maxNumber){
+                maxNumber = mat[row][i];
                 ind = i;
             }
         }
@@ -20,17 +20,17 @@ class Solution {
         int m = mat[0].length;
 
         int low = 0;
-        int high = m-1;
+        int high = n-1;
 
         while(low <= high){
             int mid = low + (high - low)/2;
 
-            int row = findMaxInd(mat,n,m,mid);
-            int left = mid - 1 >= 0 ? mat[row][mid-1] : -1;
-            int right = mid + 1 < m ? mat[row][mid+1] : -1;
+            int col = findMaxInd(mat,n,m,mid);
+            int left = mid - 1 >= 0 ? mat[mid-1][col] : -1;
+            int right = mid + 1 < n ? mat[mid+1][col] : -1;
 
-            if(mat[row][mid] > left && mat[row][mid] > right) return new int[]{row,mid};
-            else if(mat[row][mid] < left){
+            if(mat[mid][col] > left && mat[mid][col] > right) return new int[]{mid,col};
+            else if(mat[mid][col] < left){
                 high = mid-1;
             }else{
                 low = mid+1;
