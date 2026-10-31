@@ -260,6 +260,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Harshit-pundir/leetcode-java/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshit-pundir/leetcode-java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harshit-pundir/leetcode-java/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -430,6 +431,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Harshit-pundir/leetcode-java/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3988-create-grid-with-exactly-k-paths-i/) | Medium |
 ## Graph Theory
@@ -1039,6 +1041,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Harshit-pundir/leetcode-java/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
