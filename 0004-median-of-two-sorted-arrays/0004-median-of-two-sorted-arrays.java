@@ -1,3 +1,4 @@
+
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int total = nums1.length + nums2.length;
@@ -10,31 +11,33 @@ class Solution {
     }
 
     public double oddLength(int[] a, int[] b){
-        int k = (a.length + b.length) / 2 + 1;
-        return kthElement(a, b, k);
+        int required = (a.length + b.length) / 2;
+        return binarySearch(a, b, required);
     }
 
     public double evenLength(int[] a, int[] b){
-        int k = (a.length + b.length) / 2;
+        int required = (a.length + b.length) / 2;
 
-        int first = kthElement(a, b, k);
-        int second = kthElement(a, b, k + 1);
+        int second = binarySearch(a, b, required);
+        int first = binarySearch(a, b, required - 1);
 
         return ((double)first + second) / 2;
     }
 
-    public int kthElement(int[] a, int[] b, int k){
+    public int binarySearch(int[] a, int[] b, int required){
+        int n = a.length;
+        int m = b.length;
 
-        if(a.length == 0) return b[k-1];
-        if(b.length == 0) return a[k-1];
+        if(n == 0) return b[required];
+        if(m == 0) return a[required];
 
         int low = Math.min(a[0], b[0]);
-        int high = Math.max(a[a.length-1], b[b.length-1]);
+        int high = Math.max(a[n-1], b[m-1]);
 
         while(low <= high){
             int mid = low + (high - low) / 2;
 
-            if(countBound(a, b, mid) < k){
+            if(countBound(a, b, mid) <= required){
                 low = mid + 1;
             }else{
                 high = mid - 1;
