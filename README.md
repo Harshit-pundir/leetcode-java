@@ -123,6 +123,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0380-insert-delete-getrandom-o1](https://github.com/Harshit-pundir/leetcode-java/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/Harshit-pundir/leetcode-java/tree/main/0396-rotate-function/) | Medium |
 | [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshit-pundir/leetcode-java/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Harshit-pundir/leetcode-java/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -473,6 +474,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0354-russian-doll-envelopes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0367-valid-perfect-square](https://github.com/Harshit-pundir/leetcode-java/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Harshit-pundir/leetcode-java/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0436-find-right-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/Harshit-pundir/leetcode-java/tree/main/0441-arranging-coins/) | Easy |
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
@@ -933,6 +935,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshit-pundir/leetcode-java/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0561-array-partition](https://github.com/Harshit-pundir/leetcode-java/tree/main/0561-array-partition/) | Easy |
@@ -1010,6 +1013,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0354-russian-doll-envelopes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0392-is-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/Harshit-pundir/leetcode-java/tree/main/0396-rotate-function/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0509-fibonacci-number/) | Easy |
@@ -1435,6 +1439,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Harshit-pundir/leetcode-java/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
