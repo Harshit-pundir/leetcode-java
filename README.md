@@ -133,6 +133,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshit-pundir/leetcode-java/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0454-4sum-ii/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Harshit-pundir/leetcode-java/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
@@ -543,6 +544,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0412-fizz-buzz](https://github.com/Harshit-pundir/leetcode-java/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Harshit-pundir/leetcode-java/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Harshit-pundir/leetcode-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
@@ -780,6 +782,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0436-find-right-interval](https://github.com/Harshit-pundir/leetcode-java/tree/main/0436-find-right-interval/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshit-pundir/leetcode-java/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Harshit-pundir/leetcode-java/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Harshit-pundir/leetcode-java/tree/main/0561-array-partition/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0611-valid-triangle-number/) | Medium |
