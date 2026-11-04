@@ -170,6 +170,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0877-stone-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0932-beautiful-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -1128,6 +1129,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0454-4sum-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0454-4sum-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0710-random-pick-with-blacklist](https://github.com/Harshit-pundir/leetcode-java/tree/main/0710-random-pick-with-blacklist/) | Hard |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/Harshit-pundir/leetcode-java/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -1382,6 +1384,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0658-find-k-closest-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshit-pundir/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -1460,6 +1463,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0724-find-pivot-index/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1314-matrix-block-sum/) | Medium |
