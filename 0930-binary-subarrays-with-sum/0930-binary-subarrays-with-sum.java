@@ -1,17 +1,22 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        int n = nums.length;
-
+        return checkDiff(nums,goal) - checkDiff(nums,goal-1);
+    }
+    public int checkDiff(int[]  nums, int goal){
         int ans = 0;
+        int n = nums.length;
+        int left = 0;
+        int sum = 0;
 
-        for(int i = 0; i < n; i++){
-            int sum = 0;
+        for(int right = 0; right < n; right++){
+            sum += nums[right];
 
-            for(int j = i; j < n; j++){
-                sum += nums[j];
-                if(sum == goal)ans++;
-                else if(sum > goal) break;
+            while(left <= right && sum > goal){
+                sum -= nums[left];
+                left++;
             }
+            ans += right - left +1;
+
         }
 
         return ans;
