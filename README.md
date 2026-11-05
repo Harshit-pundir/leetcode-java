@@ -259,6 +259,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshit-pundir/leetcode-java/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshit-pundir/leetcode-java/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -588,6 +589,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshit-pundir/leetcode-java/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshit-pundir/leetcode-java/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -1060,6 +1062,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshit-pundir/leetcode-java/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Harshit-pundir/leetcode-java/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -1166,6 +1169,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshit-pundir/leetcode-java/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshit-pundir/leetcode-java/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Harshit-pundir/leetcode-java/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -1333,6 +1337,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2336-smallest-number-in-infinite-set](https://github.com/Harshit-pundir/leetcode-java/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Harshit-pundir/leetcode-java/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshit-pundir/leetcode-java/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -1397,6 +1402,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-pundir/leetcode-java/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshit-pundir/leetcode-java/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
