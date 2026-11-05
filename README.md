@@ -183,6 +183,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1207-unique-number-of-occurrences](https://github.com/Harshit-pundir/leetcode-java/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1219-path-with-maximum-gold](https://github.com/Harshit-pundir/leetcode-java/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Harshit-pundir/leetcode-java/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Harshit-pundir/leetcode-java/tree/main/1268-search-suggestions-system/) | Medium |
@@ -565,6 +566,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/Harshit-pundir/leetcode-java/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Harshit-pundir/leetcode-java/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -1142,6 +1144,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1096-brace-expansion-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1146-snapshot-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1146-snapshot-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Harshit-pundir/leetcode-java/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-pundir/leetcode-java/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -1395,6 +1398,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshit-pundir/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harshit-pundir/leetcode-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -1476,6 +1480,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0930-binary-subarrays-with-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1314-matrix-block-sum/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshit-pundir/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
