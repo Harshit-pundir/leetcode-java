@@ -187,6 +187,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Harshit-pundir/leetcode-java/tree/main/1268-search-suggestions-system/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1314-matrix-block-sum/) | Medium |
@@ -329,6 +330,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0988-smallest-string-starting-from-leaf](https://github.com/Harshit-pundir/leetcode-java/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -373,6 +375,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1096-brace-expansion-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -394,6 +397,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0778-swim-in-rising-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Harshit-pundir/leetcode-java/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -429,6 +433,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1219-path-with-maximum-gold](https://github.com/Harshit-pundir/leetcode-java/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Harshit-pundir/leetcode-java/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1314-matrix-block-sum/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -1364,6 +1369,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0383-ransom-note](https://github.com/Harshit-pundir/leetcode-java/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0561-array-partition](https://github.com/Harshit-pundir/leetcode-java/tree/main/0561-array-partition/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Harshit-pundir/leetcode-java/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshit-pundir/leetcode-java/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2029-stone-game-ix](https://github.com/Harshit-pundir/leetcode-java/tree/main/2029-stone-game-ix/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/2404-most-frequent-even-element/) | Easy |
