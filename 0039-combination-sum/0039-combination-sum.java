@@ -1,25 +1,21 @@
 class Solution {
-    public void solver(int[] candidates, int target, int currSum, int idx, List<Integer> list, List<List<Integer>> ans) {
+    public void solve(int idx , int currSum , int[] candidates, int target, List<Integer> res, List<List<Integer>> ans){
         if(currSum == target){
-            ans.add(new ArrayList<>(list));
+            ans.add(new ArrayList<>(res));
             return;
         }
-
-        if(idx == candidates.length || currSum > target) return;
-
-        //not pick
-        solver(candidates, target,currSum,idx+1,list,ans);
-
-        // pick
-        if(currSum + candidates[idx] <= target){
-            list.add(candidates[idx]);
-            solver(candidates,target,currSum + candidates[idx],idx,list,ans);
-            list.remove(list.size()-1);
+        if(idx >= candidates.length) return;
+        solve(idx+1,currSum ,candidates, target , res , ans);
+        if(currSum + candidates[idx] <= target ){
+            res.add(candidates[idx]);
+            solve(idx,currSum + candidates[idx] ,candidates, target , res , ans);
+            res.remove(res.size()-1);
         }
+        
     }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> ans = new ArrayList<>();
-        solver(candidates,target,0,0,new ArrayList<>() , ans);
+        solve(0,0,candidates,target,new ArrayList<>(),ans);
         return ans;
     }
 }
