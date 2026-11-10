@@ -60,6 +60,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Harshit-pundir/leetcode-java/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Harshit-pundir/leetcode-java/tree/main/0048-rotate-image/) | Medium |
@@ -1439,6 +1440,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Harshit-pundir/leetcode-java/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Harshit-pundir/leetcode-java/tree/main/0078-subsets/) | Medium |
