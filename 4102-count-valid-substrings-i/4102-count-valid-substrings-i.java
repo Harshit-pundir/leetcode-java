@@ -5,11 +5,13 @@ class Solution {
         long count = 0;
 
         for(int right = 0; right < n; right++) {
+            if(right >= 2 && s.charAt(right) == 'c'){
+                if(s.charAt(right - 2) == 'a' && s.charAt(right - 1) == 'b') {
 
-            if(right >= 2 && s.charAt(right - 2) == 'a' && s.charAt(right - 1) == 'b' && s.charAt(right) == 'c') {
-
-                left = right - 1;
+                    left = right - 1;
+                }
             }
+            
 
             count += right - left + 1;
         }
