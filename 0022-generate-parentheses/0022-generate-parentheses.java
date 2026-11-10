@@ -1,25 +1,20 @@
 class Solution {
-    public void balancedParenthesis(char[] str, int pos, int n , int open , int close, List<String> ans) {
-        if (close == n) {
-            ans.add(new String(str));
+    public void solve(int open , int close,int n,String res,List<String> ans){
+        if(close == n){
+            ans.add(res);
             return;
         }
 
-        if (open < n) {
-            str[pos] = '(';
-            balancedParenthesis(str, pos + 1, n, open + 1, close, ans);
+        if(open < n){
+            solve(open+1,close,n,res+"(",ans);
         }
-
-        if (open > close) {
-            str[pos] = ')';
-            balancedParenthesis(str, pos + 1, n, open, close + 1, ans);
+        if(close < open){
+            solve(open,close+1,n,res+")",ans);
         }
     }
-
     public List<String> generateParenthesis(int n) {
-        char[] str = new char[n * 2];
         List<String> ans = new ArrayList<>();
-        balancedParenthesis(str, 0, n, 0, 0, ans);
+        solve(0,0,n,"",ans  );
         return ans;
     }
 }
