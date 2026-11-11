@@ -870,6 +870,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0091-decode-ways](https://github.com/Harshit-pundir/leetcode-java/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Harshit-pundir/leetcode-java/tree/main/0115-distinct-subsequences/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Harshit-pundir/leetcode-java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Harshit-pundir/leetcode-java/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -1036,6 +1037,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Harshit-pundir/leetcode-java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Harshit-pundir/leetcode-java/tree/main/0198-house-robber/) | Medium |
@@ -1450,6 +1452,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0089-gray-code](https://github.com/Harshit-pundir/leetcode-java/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Harshit-pundir/leetcode-java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0216-combination-sum-iii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0301-remove-invalid-parentheses/) | Hard |
