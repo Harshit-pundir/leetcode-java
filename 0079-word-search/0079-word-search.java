@@ -5,6 +5,7 @@ class Solution {
 
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
+                if(board[i][j] == word.charAt(0))
                 if(dfs(board,i,j,0,word)) return true;
             }
         }
