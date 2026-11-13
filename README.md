@@ -65,6 +65,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Harshit-pundir/leetcode-java/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Harshit-pundir/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/Harshit-pundir/leetcode-java/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0055-jump-game/) | Medium |
@@ -1449,6 +1450,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/Harshit-pundir/leetcode-java/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/Harshit-pundir/leetcode-java/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Harshit-pundir/leetcode-java/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
@@ -1808,4 +1810,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Harshit-pundir/leetcode-java/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
