@@ -59,6 +59,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0031-next-permutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Harshit-pundir/leetcode-java/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/Harshit-pundir/leetcode-java/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
@@ -415,6 +416,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Harshit-pundir/leetcode-java/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Harshit-pundir/leetcode-java/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0063-unique-paths-ii/) | Medium |
@@ -1126,6 +1128,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Harshit-pundir/leetcode-java/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0037-sudoku-solver](https://github.com/Harshit-pundir/leetcode-java/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Harshit-pundir/leetcode-java/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Harshit-pundir/leetcode-java/tree/main/0076-minimum-window-substring/) | Hard |
@@ -1447,6 +1450,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/Harshit-pundir/leetcode-java/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0047-permutations-ii/) | Medium |
@@ -1813,5 +1817,10 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Harshit-pundir/leetcode-java/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Harshit-pundir/leetcode-java/tree/main/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Harshit-pundir/leetcode-java/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
