@@ -650,6 +650,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-pundir/leetcode-java/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -704,6 +705,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0224-basic-calculator/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0394-decode-string/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -785,6 +787,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/Harshit-pundir/leetcode-java/tree/main/0382-linked-list-random-node/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -1416,6 +1419,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0206-reverse-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Harshit-pundir/leetcode-java/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Harshit-pundir/leetcode-java/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/0390-elimination-game/) | Medium |
