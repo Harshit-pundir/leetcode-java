@@ -268,6 +268,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-pundir/leetcode-java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshit-pundir/leetcode-java/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harshit-pundir/leetcode-java/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
@@ -1448,6 +1449,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Harshit-pundir/leetcode-java/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshit-pundir/leetcode-java/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harshit-pundir/leetcode-java/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshit-pundir/leetcode-java/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Backtracking
@@ -1537,6 +1539,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2055-plates-between-candles](https://github.com/Harshit-pundir/leetcode-java/tree/main/2055-plates-between-candles/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3904-smallest-stable-index-ii/) | Medium |
