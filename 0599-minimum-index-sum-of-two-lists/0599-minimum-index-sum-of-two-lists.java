@@ -5,22 +5,28 @@ class Solution {
         int n = list1.length;
         int m = list2.length;
         int min = Integer.MAX_VALUE;
-
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(list1[i].equals(list2[j])){
-                    if(i + j < min){
-                        min = i+j;
-                        res.clear();
-                        res.add(list1[i]);
-                    }else if(i + j == min){
-                        res.add(list1[i]);
-                    }
+        HashMap<String,Integer> map = new HashMap<>();
+        int i = 0;
+        for(String word : list1){
+            map.put(word,i);
+            i++;
+        }
+        int j = 0;
+        for(String word : list2){
+            if(map.containsKey(word)){
+                int val = map.get(word);
+                if(val + j < min){
+                    min = val + j;
+                    res.clear();
+                    res.add(word);
+                }else if(val + j == min){
+                    res.add(word);
                 }
             }
+            j++;
         }
         String[] ans = new String[res.size()];
-        int i = 0;
+        i = 0;
         for(String word : res){
             ans[i++] = word;
         }
