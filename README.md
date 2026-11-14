@@ -648,6 +648,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Harshit-pundir/leetcode-java/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -781,6 +782,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0147-insertion-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -1144,6 +1146,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0139-word-break](https://github.com/Harshit-pundir/leetcode-java/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/0205-isomorphic-strings/) | Easy |
