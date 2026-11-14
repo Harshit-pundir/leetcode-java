@@ -150,6 +150,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0542-01-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Harshit-pundir/leetcode-java/tree/main/0561-array-partition/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -915,6 +916,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/0647-palindromic-substrings/) | Medium |
 | [0649-dota2-senate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -1174,6 +1176,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0454-4sum-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0454-4sum-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0710-random-pick-with-blacklist](https://github.com/Harshit-pundir/leetcode-java/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
