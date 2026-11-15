@@ -9,8 +9,7 @@ public class Solution {
 
             if(slow == fast){
                 ListNode temp = head;
-
-                while(slow != temp){
+                while(temp != slow){
                     slow = slow.next;
                     temp = temp.next;
                 }
