@@ -8,12 +8,12 @@ public class Solution {
             fast = fast.next.next;
 
             if(slow == fast){
-                ListNode temp = head;
-                while(temp != slow){
+                slow = head;
+                while(fast != slow){
                     slow = slow.next;
-                    temp = temp.next;
+                    fast = fast.next;
                 }
-                return temp;
+                return slow;
             }
         }
         return null;
