@@ -244,6 +244,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-pundir/leetcode-java/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2293-min-max-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/2293-min-max-game/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-pundir/leetcode-java/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshit-pundir/leetcode-java/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -1140,6 +1141,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2293-min-max-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/2293-min-max-game/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
