@@ -962,6 +962,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Harshit-pundir/leetcode-java/tree/main/2409-count-days-spent-together/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
@@ -1134,6 +1135,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-pundir/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
