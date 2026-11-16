@@ -241,6 +241,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-pundir/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Harshit-pundir/leetcode-java/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-pundir/leetcode-java/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -608,6 +609,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harshit-pundir/leetcode-java/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Harshit-pundir/leetcode-java/tree/main/2409-count-days-spent-together/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Harshit-pundir/leetcode-java/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
@@ -697,6 +699,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0258-add-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0258-add-digits/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/Harshit-pundir/leetcode-java/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-pundir/leetcode-java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harshit-pundir/leetcode-java/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -1135,6 +1138,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harshit-pundir/leetcode-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-pundir/leetcode-java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -1631,6 +1635,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harshit-pundir/leetcode-java/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-pundir/leetcode-java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3988-create-grid-with-exactly-k-paths-i/) | Medium |
 ## Topological Sort
