@@ -657,6 +657,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0141-linked-list-cycle](https://github.com/Harshit-pundir/leetcode-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0202-happy-number/) | Easy |
@@ -798,6 +799,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0206-reverse-linked-list/) | Easy |
@@ -820,6 +822,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0075-sort-colors](https://github.com/Harshit-pundir/leetcode-java/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/Harshit-pundir/leetcode-java/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -1254,6 +1257,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0023-merge-k-sorted-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0148-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0191-number-of-1-bits/) | Easy |
@@ -1321,6 +1325,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
