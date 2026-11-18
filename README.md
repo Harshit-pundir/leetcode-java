@@ -144,6 +144,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0493-reverse-pairs](https://github.com/Harshit-pundir/leetcode-java/tree/main/0493-reverse-pairs/) | Hard |
 | [0495-teemo-attacking](https://github.com/Harshit-pundir/leetcode-java/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Harshit-pundir/leetcode-java/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0518-coin-change-ii/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Harshit-pundir/leetcode-java/tree/main/0528-random-pick-with-weight/) | Medium |
@@ -724,6 +725,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -1056,6 +1058,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0042-trapping-rain-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/Harshit-pundir/leetcode-java/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Harshit-pundir/leetcode-java/tree/main/0901-online-stock-span/) | Medium |
