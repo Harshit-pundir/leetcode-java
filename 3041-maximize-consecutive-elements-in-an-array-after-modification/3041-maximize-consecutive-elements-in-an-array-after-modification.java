@@ -7,11 +7,11 @@ class Solution {
 
         for (int x : nums) {
 
-            int a = map.getOrDefault(x + 1, 0) + 1;
-            int b = map.getOrDefault(x, 0) + 1;
+            int a = map.getOrDefault(x, 0) + 1;
+            int b = map.getOrDefault(x - 1, 0) + 1;
 
-            map.put(x + 2, Math.max(map.getOrDefault(x + 2, 0), a));
-            map.put(x + 1, Math.max(map.getOrDefault(x + 1, 0), b));
+            map.put(x + 1, Math.max(map.getOrDefault(x + 1, 0), a));
+            map.put(x, Math.max(map.getOrDefault(x, 0), b));
 
             ans = Math.max(ans, Math.max(a, b));
         }
