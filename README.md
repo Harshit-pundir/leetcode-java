@@ -235,6 +235,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Harshit-pundir/leetcode-java/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
@@ -745,6 +746,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshit-pundir/leetcode-java/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harshit-pundir/leetcode-java/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -1068,6 +1070,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0739-daily-temperatures](https://github.com/Harshit-pundir/leetcode-java/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Harshit-pundir/leetcode-java/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Harshit-pundir/leetcode-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harshit-pundir/leetcode-java/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
