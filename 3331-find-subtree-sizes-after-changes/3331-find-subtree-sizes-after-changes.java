@@ -11,7 +11,6 @@ class Solution {
             tree[i] = new ArrayList<>();
         }
 
-        // Original tree
         for (int i = 1; i < n; i++) {
             tree[parent[i]].add(i);
         }
@@ -19,10 +18,8 @@ class Solution {
         int[] newParent = parent.clone();
         Arrays.fill(last, -1);
 
-        // Find new parents
         dfs(0, s, newParent);
 
-        // Build modified tree
         for (int i = 0; i < n; i++) {
             tree[i].clear();
         }
@@ -31,7 +28,6 @@ class Solution {
             tree[newParent[i]].add(i);
         }
 
-        // Calculate subtree sizes
         ans = new int[n];
         size(0);
 
