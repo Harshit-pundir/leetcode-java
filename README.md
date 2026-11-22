@@ -987,6 +987,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Harshit-pundir/leetcode-java/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2055-plates-between-candles](https://github.com/Harshit-pundir/leetcode-java/tree/main/2055-plates-between-candles/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Harshit-pundir/leetcode-java/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Harshit-pundir/leetcode-java/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Harshit-pundir/leetcode-java/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Harshit-pundir/leetcode-java/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
