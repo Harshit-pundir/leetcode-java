@@ -200,6 +200,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1314-matrix-block-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1314-matrix-block-sum/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Harshit-pundir/leetcode-java/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Harshit-pundir/leetcode-java/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -601,6 +602,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/Harshit-pundir/leetcode-java/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Harshit-pundir/leetcode-java/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1406-stone-game-iii/) | Hard |
@@ -1424,6 +1426,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0933-number-of-recent-calls](https://github.com/Harshit-pundir/leetcode-java/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Harshit-pundir/leetcode-java/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1146-snapshot-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/1146-snapshot-array/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Harshit-pundir/leetcode-java/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
 ## Heap (Priority Queue)
@@ -1604,6 +1607,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1140-stone-game-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1314-matrix-block-sum/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshit-pundir/leetcode-java/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -1780,6 +1784,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0295-find-median-from-data-stream](https://github.com/Harshit-pundir/leetcode-java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/Harshit-pundir/leetcode-java/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Harshit-pundir/leetcode-java/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/Harshit-pundir/leetcode-java/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Cartesian Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
