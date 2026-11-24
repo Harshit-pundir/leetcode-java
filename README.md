@@ -83,6 +83,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0079-word-search](https://github.com/Harshit-pundir/leetcode-java/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0090-subsets-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -730,6 +731,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0032-longest-valid-parentheses](https://github.com/Harshit-pundir/leetcode-java/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Harshit-pundir/leetcode-java/tree/main/0071-simplify-path/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0224-basic-calculator/) | Hard |
@@ -1078,6 +1080,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/0496-next-greater-element-i/) | Easy |
@@ -1932,5 +1935,6 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
