@@ -735,6 +735,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0234-palindrome-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Harshit-pundir/leetcode-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -947,6 +948,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0392-is-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/Harshit-pundir/leetcode-java/tree/main/0399-evaluate-division/) | Medium |
+| [0402-remove-k-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Harshit-pundir/leetcode-java/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshit-pundir/leetcode-java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -1034,6 +1036,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Harshit-pundir/leetcode-java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0402-remove-k-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harshit-pundir/leetcode-java/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -1075,6 +1078,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit-pundir/leetcode-java/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Harshit-pundir/leetcode-java/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0402-remove-k-digits](https://github.com/Harshit-pundir/leetcode-java/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0654-maximum-binary-tree/) | Medium |
