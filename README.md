@@ -112,6 +112,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0228-summary-ranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Harshit-pundir/leetcode-java/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Harshit-pundir/leetcode-java/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Harshit-pundir/leetcode-java/tree/main/0274-h-index/) | Medium |
@@ -1442,6 +1443,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshit-pundir/leetcode-java/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-pundir/leetcode-java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0264-ugly-number-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-pundir/leetcode-java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -1511,6 +1513,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0076-minimum-window-substring](https://github.com/Harshit-pundir/leetcode-java/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshit-pundir/leetcode-java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -1842,6 +1845,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0649-dota2-senate](https://github.com/Harshit-pundir/leetcode-java/tree/main/0649-dota2-senate/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Harshit-pundir/leetcode-java/tree/main/0933-number-of-recent-calls/) | Easy |
@@ -1892,6 +1896,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Harshit-pundir/leetcode-java/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Concurrency
@@ -1924,4 +1929,8 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Harshit-pundir/leetcode-java/tree/main/0037-sudoku-solver/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshit-pundir/leetcode-java/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
