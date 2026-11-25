@@ -315,6 +315,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3886-sum-of-sortable-integers](https://github.com/Harshit-pundir/leetcode-java/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Harshit-pundir/leetcode-java/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3988-create-grid-with-exactly-k-paths-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3988-create-grid-with-exactly-k-paths-i/) | Medium |
 ## Depth-First Search
@@ -560,6 +561,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harshit-pundir/leetcode-java/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshit-pundir/leetcode-java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Harshit-pundir/leetcode-java/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1299,6 +1301,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshit-pundir/leetcode-java/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1583,6 +1586,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1392-longest-happy-prefix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1392-longest-happy-prefix/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1600,6 +1604,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1392-longest-happy-prefix](https://github.com/Harshit-pundir/leetcode-java/tree/main/1392-longest-happy-prefix/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1666,6 +1671,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
