@@ -261,6 +261,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2404-most-frequent-even-element](https://github.com/Harshit-pundir/leetcode-java/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Harshit-pundir/leetcode-java/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Harshit-pundir/leetcode-java/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -1014,6 +1015,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2409-count-days-spent-together](https://github.com/Harshit-pundir/leetcode-java/tree/main/2409-count-days-spent-together/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Harshit-pundir/leetcode-java/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshit-pundir/leetcode-java/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2810-faulty-keyboard](https://github.com/Harshit-pundir/leetcode-java/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -1645,6 +1647,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Harshit-pundir/leetcode-java/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2055-plates-between-candles](https://github.com/Harshit-pundir/leetcode-java/tree/main/2055-plates-between-candles/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2121-intervals-between-identical-elements/) | Medium |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Harshit-pundir/leetcode-java/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2615-sum-of-distances](https://github.com/Harshit-pundir/leetcode-java/tree/main/2615-sum-of-distances/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Harshit-pundir/leetcode-java/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Harshit-pundir/leetcode-java/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
