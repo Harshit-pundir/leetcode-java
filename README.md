@@ -739,6 +739,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [0071-simplify-path](https://github.com/Harshit-pundir/leetcode-java/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshit-pundir/leetcode-java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/Harshit-pundir/leetcode-java/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Harshit-pundir/leetcode-java/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -1439,6 +1440,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Harshit-pundir/leetcode-java/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Harshit-pundir/leetcode-java/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Harshit-pundir/leetcode-java/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
