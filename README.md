@@ -639,6 +639,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshit-pundir/leetcode-java/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Harshit-pundir/leetcode-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Harshit-pundir/leetcode-java/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Harshit-pundir/leetcode-java/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -1207,6 +1208,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [2810-faulty-keyboard](https://github.com/Harshit-pundir/leetcode-java/tree/main/2810-faulty-keyboard/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshit-pundir/leetcode-java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/Harshit-pundir/leetcode-java/tree/main/3242-design-neighbor-sum-service/) | Easy |
+| [3360-stone-removal-game](https://github.com/Harshit-pundir/leetcode-java/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Harshit-pundir/leetcode-java/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
