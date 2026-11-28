@@ -1,14 +1,22 @@
 class Solution {
     public int minRange(int a, int b, int c) {
-        int min = Math.min(a, Math.min(b, c));
-        int max = Math.max(a, Math.max(b, c));
+        int max = Math.max(a, b);
+        int mid = Math.min(a, b);
+        int min = -1;
 
-        int mid = a + b + c - min - max;
-
-        if (max > min + mid) {
-            return mid;
+        if (c > max) {
+            min = mid;
+            mid = max;
+            max = c;
+        } 
+        else if (c > mid) {
+            min = mid;
+            mid = c;
+        } 
+        else {
+            min = c;
         }
 
-        return max - min;
+        return Math.min(mid, max - min);
     }
 }
