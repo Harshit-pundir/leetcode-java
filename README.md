@@ -368,6 +368,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Harshit-pundir/leetcode-java/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-pundir/leetcode-java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -415,6 +416,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Harshit-pundir/leetcode-java/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Harshit-pundir/leetcode-java/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshit-pundir/leetcode-java/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -435,6 +437,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Harshit-pundir/leetcode-java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshit-pundir/leetcode-java/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Harshit-pundir/leetcode-java/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2076-process-restricted-friend-requests](https://github.com/Harshit-pundir/leetcode-java/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Harshit-pundir/leetcode-java/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -499,6 +502,7 @@ This repository is automatically updated using **LeetHub 3.0** whenever I solve 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Harshit-pundir/leetcode-java/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Harshit-pundir/leetcode-java/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Harshit-pundir/leetcode-java/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Harshit-pundir/leetcode-java/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2076-process-restricted-friend-requests](https://github.com/Harshit-pundir/leetcode-java/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Harshit-pundir/leetcode-java/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Harshit-pundir/leetcode-java/tree/main/3310-remove-methods-from-project/) | Medium |
